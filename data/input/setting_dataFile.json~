@@ -1,0 +1,30 @@
+{
+   "metadata": [
+      {
+	"id": "sample1",
+	"path" : "./data/",
+        "filename": "taxonomy_tree.json"
+	},
+      {
+	"id": "sample2",
+	"path" : "./data/input/",
+        "filename": "sample1_tree_data.json" 
+	},
+      {
+	"id": "sample3",
+	"path" : "./data/input/",
+        "filename": "sample2_tree_data.json"
+        
+      },
+      {
+	"id": "sample4",
+	"path" : "./data/input/",
+        "filename": "sample3_tree_data.json"
+      },
+      {
+	"id": "sample5",
+	"path" : "./data/input/",
+        "filename": "sample4_tree_data.json"
+      }
+   ]
+}

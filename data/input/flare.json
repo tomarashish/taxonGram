@@ -1,0 +1,4535 @@
+{
+  "value": 1.0,
+  "children": [
+    {
+      "value": 0.9,
+      "children": [
+        {
+          "value": 0.236754181,
+          "children": [
+            {
+              "value": 0.160234709,
+              "children": [
+                {
+                  "value": 0.102054277,
+                  "children": [
+                    {
+                      "value": 0.046066021,
+                      "children": [
+                        {
+                          "value": 0.041828909,
+                          "children": [
+                            {
+                              "value": 4.25315E-4,
+                              "children": [
+                                {
+                                  "value": 4.03398E-4,
+                                  "name": "uncultured Streptococcus sp. ",
+                                  "id": "83427"
+                                },
+                                {
+                                  "value": 6.84E-7,
+                                  "name": "Streptococcus sp. oral clone ASCB12 ",
+                                  "id": "325789"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "83426"
+                            },
+                            {
+                              "value": 2.30164E-4,
+                              "name": "Streptococcus mitis ",
+                              "id": "28037"
+                            },
+                            {
+                              "value": 1.14595E-4,
+                              "name": "Streptococcus didelphis ",
+                              "id": "102886"
+                            },
+                            {
+                              "value": 7.47E-5,
+                              "name": "Streptococcus sp. oral taxon C65 ",
+                              "id": "712645"
+                            },
+                            {
+                              "value": 7.4E-5,
+                              "name": "Streptococcus salivarius ",
+                              "id": "1304"
+                            },
+                            {
+                              "value": 5.63E-5,
+                              "name": "Streptococcus thermophilus ",
+                              "id": "1308"
+                            },
+                            {
+                              "value": 4.56E-5,
+                              "name": "Streptococcus sanguinis ",
+                              "id": "1305"
+                            },
+                            {
+                              "value": 5.27E-6,
+                              "name": "Streptococcus mutans ",
+                              "id": "1309"
+                            },
+                            {
+                              "value": 6.32E-7,
+                              "name": "Streptococcus equinus ",
+                              "id": "1335"
+                            }
+                          ],
+                          "name": "Streptococcus ",
+                          "id": "1301"
+                        },
+                        {
+                          "value": 0.001157318,
+                          "children": [
+                            {
+                              "value": 1.56654E-4,
+                              "children": [
+                                {
+                                  "value": 2.5E-5,
+                                  "name": "Lactococcus lactis subsp. lactis ",
+                                  "id": "1360"
+                                }
+                              ],
+                              "name": "Lactococcus lactis ",
+                              "id": "1358"
+                            },
+                            {
+                              "value": 5.27E-5,
+                              "children": [
+                                {
+                                  "value": 1.14E-5,
+                                  "name": "uncultured Lactococcus sp. ",
+                                  "id": "167973"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "89277"
+                            },
+                            {
+                              "value": 1.31E-6,
+                              "name": "Lactococcus garvieae ",
+                              "id": "1363"
+                            }
+                          ],
+                          "name": "Lactococcus ",
+                          "id": "1357"
+                        },
+                        {
+                          "value": 1.71E-5,
+                          "children": [
+                            {
+                              "value": 1.68E-5,
+                              "name": "uncultured Streptococcaceae bacterium ",
+                              "id": "208546"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "57697"
+                        }
+                      ],
+                      "name": "Streptococcaceae ",
+                      "id": "1300"
+                    },
+                    {
+                      "value": 0.027284073,
+                      "children": [
+                        {
+                          "value": 0.024671451,
+                          "children": [
+                            {
+                              "value": 0.010079073,
+                              "children": [
+                                {
+                                  "value": 6.19715E-4,
+                                  "name": "Lactobacillus delbrueckii subsp. bulgaricus ",
+                                  "id": "1585"
+                                },
+                                {
+                                  "value": 4.26E-6,
+                                  "name": "Lactobacillus delbrueckii subsp. lactis ",
+                                  "id": "29397"
+                                }
+                              ],
+                              "name": "Lactobacillus delbrueckii ",
+                              "id": "1584"
+                            },
+                            {
+                              "value": 0.00171114,
+                              "children": [
+                                {
+                                  "value": 1.2E-5,
+                                  "children": [
+                                    {
+                                      "value": 9.64E-6,
+                                      "name": "Lactobacillus paracasei subsp. paracasei ",
+                                      "id": "47714"
+                                    }
+                                  ],
+                                  "name": "Lactobacillus paracasei ",
+                                  "id": "1597"
+                                },
+                                {
+                                  "value": 8.7E-6,
+                                  "name": "Lactobacillus casei ",
+                                  "id": "1582"
+                                }
+                              ],
+                              "name": "Lactobacillus casei group ",
+                              "id": "655183"
+                            },
+                            {
+                              "value": 0.001632,
+                              "name": "Lactobacillus acidophilus ",
+                              "id": "1579"
+                            },
+                            {
+                              "value": 8.59488E-4,
+                              "name": "Lactobacillus rossiae ",
+                              "id": "231049"
+                            },
+                            {
+                              "value": 8.28198E-4,
+                              "children": [
+                                {
+                                  "value": 8.28198E-4,
+                                  "name": "uncultured Lactobacillus sp. ",
+                                  "id": "153152"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "134232"
+                            },
+                            {
+                              "value": 6.33E-5,
+                              "name": "Lactobacillus sakei ",
+                              "id": "1599"
+                            },
+                            {
+                              "value": 2.69E-5,
+                              "name": "Lactobacillus salivarius ",
+                              "id": "1624"
+                            },
+                            {
+                              "value": 2.01E-5,
+                              "name": "Lactobacillus brevis ",
+                              "id": "1580"
+                            }
+                          ],
+                          "name": "Lactobacillus ",
+                          "id": "1578"
+                        },
+                        {
+                          "value": 1.63243E-4,
+                          "children": [
+                            {
+                              "value": 2.01E-5,
+                              "name": "Pediococcus damnosus ",
+                              "id": "51663"
+                            }
+                          ],
+                          "name": "Pediococcus ",
+                          "id": "1253"
+                        },
+                        {
+                          "value": 3.79E-5,
+                          "children": [
+                            {
+                              "value": 3.79E-5,
+                              "name": "uncultured Lactobacillaceae bacterium ",
+                              "id": "218288"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "218287"
+                        }
+                      ],
+                      "name": "Lactobacillaceae ",
+                      "id": "33958"
+                    },
+                    {
+                      "value": 0.005143267,
+                      "children": [
+                        {
+                          "value": 0.004037722,
+                          "children": [
+                            {
+                              "value": 5.48495E-4,
+                              "name": "Leuconostoc carnosum ",
+                              "id": "1252"
+                            },
+                            {
+                              "value": 9.12E-5,
+                              "name": "Leuconostoc mesenteroides ",
+                              "id": "1245"
+                            },
+                            {
+                              "value": 1.01E-5,
+                              "name": "Leuconostoc gasicomitatum ",
+                              "id": "115778"
+                            },
+                            {
+                              "value": 3.1E-6,
+                              "children": [
+                                {
+                                  "value": 3.1E-6,
+                                  "name": "uncultured Leuconostoc sp. ",
+                                  "id": "173262"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "69948"
+                            },
+                            {
+                              "value": 1.58E-6,
+                              "name": "Leuconostoc citreum ",
+                              "id": "33964"
+                            },
+                            {
+                              "value": 1.02E-6,
+                              "name": "Leuconostoc garlicum ",
+                              "id": "255248"
+                            },
+                            {
+                              "value": 5.27E-7,
+                              "name": "Leuconostoc pseudomesenteroides ",
+                              "id": "33968"
+                            }
+                          ],
+                          "name": "Leuconostoc ",
+                          "id": "1243"
+                        },
+                        {
+                          "value": 7.49096E-4,
+                          "children": [
+                            {
+                              "value": 8.95E-7,
+                              "name": "Weissella cibaria ",
+                              "id": "137591"
+                            }
+                          ],
+                          "name": "Weissella ",
+                          "id": "46255"
+                        }
+                      ],
+                      "name": "Leuconostocaceae ",
+                      "id": "81850"
+                    },
+                    {
+                      "value": 0.004328931,
+                      "children": [
+                        {
+                          "value": 0.004016193,
+                          "children": [
+                            {
+                              "value": 2.6E-5,
+                              "children": [
+                                {
+                                  "value": 2.6E-5,
+                                  "name": "uncultured Carnobacterium sp. ",
+                                  "id": "259013"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "259012"
+                            }
+                          ],
+                          "name": "Carnobacterium ",
+                          "id": "2747"
+                        },
+                        {
+                          "value": 7.71E-6,
+                          "children": [
+                            {
+                              "value": 7.71E-6,
+                              "name": "uncultured Carnobacteriaceae bacterium ",
+                              "id": "349922"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "349921"
+                        },
+                        {
+                          "value": 5.02E-6,
+                          "children": [
+                            {
+                              "value": 5.02E-6,
+                              "name": "Carnobacteriaceae bacterium KVD-6-1959",
+                              "id": "384173"
+                            }
+                          ],
+                          "name": "unclassified Carnobacteriaceae ",
+                          "id": "268966"
+                        }
+                      ],
+                      "name": "Carnobacteriaceae ",
+                      "id": "186828"
+                    },
+                    {
+                      "value": 0.003199309,
+                      "children": [
+                        {
+                          "value": 0.002954585,
+                          "children": [
+                            {
+                              "value": 4.89E-6,
+                              "name": "Aerococcus viridans ",
+                              "id": "1377"
+                            },
+                            {
+                              "value": 1.32E-6,
+                              "children": [
+                                {
+                                  "value": 1.32E-6,
+                                  "name": "uncultured Aerococcus sp. ",
+                                  "id": "189667"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "189666"
+                            }
+                          ],
+                          "name": "Aerococcus ",
+                          "id": "1375"
+                        }
+                      ],
+                      "name": "Aerococcaceae ",
+                      "id": "186827"
+                    },
+                    {
+                      "value": 6.64842E-4,
+                      "children": [
+                        {
+                          "value": 4.67283E-4,
+                          "children": [
+                            {
+                              "value": 1.0E-5,
+                              "name": "Enterococcus faecalis ",
+                              "id": "1351"
+                            },
+                            {
+                              "value": 7.35E-6,
+                              "children": [
+                                {
+                                  "value": 7.35E-6,
+                                  "name": "uncultured Enterococcus sp. ",
+                                  "id": "167972"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "167971"
+                            }
+                          ],
+                          "name": "Enterococcus ",
+                          "id": "1350"
+                        },
+                        {
+                          "value": 1.49671E-4,
+                          "name": "Vagococcus ",
+                          "id": "2737"
+                        },
+                        {
+                          "value": 3.66E-7,
+                          "children": [
+                            {
+                              "value": 3.66E-7,
+                              "name": "uncultured Enterococcaceae bacterium ",
+                              "id": "447058"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "447057"
+                        }
+                      ],
+                      "name": "Enterococcaceae ",
+                      "id": "81852"
+                    },
+                    {
+                      "value": 5.0E-6,
+                      "children": [
+                        {
+                          "value": 5.0E-6,
+                          "name": "uncultured Lactobacillales bacterium ",
+                          "id": "339167"
+                        }
+                      ],
+                      "name": "environmental samples ",
+                      "id": "339166"
+                    }
+                  ],
+                  "name": "Lactobacillales ",
+                  "id": "186826"
+                },
+                {
+                  "value": 0.027280903,
+                  "children": [
+                    {
+                      "value": 0.013079476,
+                      "children": [
+                        {
+                          "value": 0.011239187,
+                          "children": [
+                            {
+                              "value": 9.88659E-4,
+                              "children": [
+                                {
+                                  "value": 8.28311E-4,
+                                  "name": "uncultured Staphylococcus sp. ",
+                                  "id": "189668"
+                                },
+                                {
+                                  "value": 9.16E-7,
+                                  "name": "Staphylococcus sp. enrichment culture clone S1_22 ",
+                                  "id": "1185833"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "129707"
+                            },
+                            {
+                              "value": 3.39276E-4,
+                              "name": "Staphylococcus hominis ",
+                              "id": "1290"
+                            },
+                            {
+                              "value": 6.36E-6,
+                              "name": "Staphylococcus aureus ",
+                              "id": "1280"
+                            },
+                            {
+                              "value": 6.27E-6,
+                              "name": "Staphylococcus epidermidis ",
+                              "id": "1282"
+                            },
+                            {
+                              "value": 4.9E-7,
+                              "name": "Staphylococcus auricularis ",
+                              "id": "29379"
+                            }
+                          ],
+                          "name": "Staphylococcus ",
+                          "id": "1279"
+                        },
+                        {
+                          "value": 2.76E-5,
+                          "name": "Jeotgalicoccus ",
+                          "id": "227979"
+                        },
+                        {
+                          "value": 4.54E-6,
+                          "name": "unclassified Staphylococcaceae ",
+                          "id": "111016"
+                        },
+                        {
+                          "value": 1.89E-6,
+                          "children": [
+                            {
+                              "value": 1.89E-6,
+                              "name": "uncultured Staphylococcaceae bacterium ",
+                              "id": "370803"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "370802"
+                        }
+                      ],
+                      "name": "Staphylococcaceae ",
+                      "id": "90964"
+                    },
+                    {
+                      "value": 0.003419348,
+                      "children": [
+                        {
+                          "value": 0.002680925,
+                          "children": [
+                            {
+                              "value": 4.21652E-4,
+                              "children": [
+                                {
+                                  "value": 4.08607E-4,
+                                  "name": "Bacillus cereus ",
+                                  "id": "1396"
+                                },
+                                {
+                                  "value": 4.85E-6,
+                                  "name": "Bacillus thuringiensis ",
+                                  "id": "1428"
+                                }
+                              ],
+                              "name": "Bacillus cereus group ",
+                              "id": "86661"
+                            },
+                            {
+                              "value": 8.68E-5,
+                              "children": [
+                                {
+                                  "value": 8.6E-5,
+                                  "name": "uncultured Bacillus sp. ",
+                                  "id": "83428"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "65119"
+                            },
+                            {
+                              "value": 1.72E-5,
+                              "name": "Bacillus pumilus ",
+                              "id": "1408"
+                            },
+                            {
+                              "value": 1.48E-5,
+                              "children": [
+                                {
+                                  "value": 6.83E-6,
+                                  "name": "Bacillus subtilis ",
+                                  "id": "1423"
+                                }
+                              ],
+                              "name": "Bacillus subtilis group ",
+                              "id": "653685"
+                            },
+                            {
+                              "value": 1.24E-6,
+                              "name": "Bacillus megaterium ",
+                              "id": "1404"
+                            }
+                          ],
+                          "name": "Bacillus ",
+                          "id": "1386"
+                        },
+                        {
+                          "value": 2.71E-7,
+                          "children": [
+                            {
+                              "value": 2.71E-7,
+                              "name": "uncultured Bacillaceae bacterium ",
+                              "id": "197516"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "197515"
+                        }
+                      ],
+                      "name": "Bacillaceae ",
+                      "id": "186817"
+                    },
+                    {
+                      "value": 0.002833112,
+                      "children": [
+                        {
+                          "value": 0.002607679,
+                          "children": [
+                            {
+                              "value": 4.43E-7,
+                              "children": [
+                                {
+                                  "value": 4.43E-7,
+                                  "name": "uncultured Paenibacillus sp. ",
+                                  "id": "227322"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "131548"
+                            }
+                          ],
+                          "name": "Paenibacillus ",
+                          "id": "44249"
+                        }
+                      ],
+                      "name": "Paenibacillaceae ",
+                      "id": "186822"
+                    },
+                    {
+                      "value": 8.07136E-4,
+                      "children": [
+                        {
+                          "value": 4.36146E-4,
+                          "children": [
+                            {
+                              "value": 4.36146E-4,
+                              "name": "Exiguobacterium ",
+                              "id": "33986"
+                            }
+                          ],
+                          "name": "Bacillales Family XII. Incertae Sedis ",
+                          "id": "539742"
+                        },
+                        {
+                          "value": 3.7099E-4,
+                          "children": [
+                            {
+                              "value": 3.7099E-4,
+                              "children": [
+                                {
+                                  "value": 6.56E-5,
+                                  "name": "Gemella haemolysans ",
+                                  "id": "1379"
+                                },
+                                {
+                                  "value": 1.98E-6,
+                                  "children": [
+                                    {
+                                      "value": 1.18E-6,
+                                      "name": "uncultured Gemella sp. ",
+                                      "id": "254352"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "75667"
+                                }
+                              ],
+                              "name": "Gemella ",
+                              "id": "1378"
+                            }
+                          ],
+                          "name": "Bacillales Family XI. Incertae Sedis ",
+                          "id": "539738"
+                        }
+                      ],
+                      "name": "Bacillales incertae sedis ",
+                      "id": "539002"
+                    },
+                    {
+                      "value": 2.96361E-4,
+                      "name": "Planococcaceae ",
+                      "id": "186818"
+                    },
+                    {
+                      "value": 1.83E-5,
+                      "children": [
+                        {
+                          "value": 1.83E-5,
+                          "name": "uncultured Bacillales bacterium ",
+                          "id": "157472"
+                        }
+                      ],
+                      "name": "environmental samples ",
+                      "id": "50609"
+                    }
+                  ],
+                  "name": "Bacillales ",
+                  "id": "1385"
+                },
+                {
+                  "value": 1.01888E-4,
+                  "children": [
+                    {
+                      "value": 1.01888E-4,
+                      "name": "uncultured Bacilli bacterium ",
+                      "id": "224209"
+                    }
+                  ],
+                  "name": "environmental samples ",
+                  "id": "224208"
+                }
+              ],
+              "name": "Bacilli ",
+              "id": "91061"
+            },
+            {
+              "value": 0.00819133,
+              "children": [
+                {
+                  "value": 0.006966614,
+                  "children": [
+                    {
+                      "value": 0.001868729,
+                      "children": [
+                        {
+                          "value": 0.001739481,
+                          "children": [
+                            {
+                              "value": 5.35353E-4,
+                              "children": [
+                                {
+                                  "value": 5.02982E-4,
+                                  "name": "uncultured Clostridium sp. ",
+                                  "id": "59620"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "59619"
+                            },
+                            {
+                              "value": 2.02E-6,
+                              "name": "Clostridium sardiniense ",
+                              "id": "29369"
+                            }
+                          ],
+                          "name": "Clostridium ",
+                          "id": "1485"
+                        }
+                      ],
+                      "name": "Clostridiaceae ",
+                      "id": "31979"
+                    },
+                    {
+                      "value": 8.70265E-4,
+                      "children": [
+                        {
+                          "value": 8.46917E-4,
+                          "name": "Clostridiales Family XI. Incertae Sedis ",
+                          "id": "543310"
+                        }
+                      ],
+                      "name": "Clostridiales incertae sedis ",
+                      "id": "538999"
+                    },
+                    {
+                      "value": 8.33218E-4,
+                      "children": [
+                        {
+                          "value": 1.221E-4,
+                          "children": [
+                            {
+                              "value": 1.221E-4,
+                              "name": "uncultured Lachnospiraceae bacterium ",
+                              "id": "297314"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "189703"
+                        },
+                        {
+                          "value": 4.48E-5,
+                          "name": "Blautia ",
+                          "id": "572511"
+                        },
+                        {
+                          "value": 3.45E-5,
+                          "name": "unclassified Lachnospiraceae ",
+                          "id": "186928"
+                        }
+                      ],
+                      "name": "Lachnospiraceae ",
+                      "id": "186803"
+                    },
+                    {
+                      "value": 1.05977E-4,
+                      "children": [
+                        {
+                          "value": 1.05977E-4,
+                          "name": "uncultured Clostridiales bacterium ",
+                          "id": "172733"
+                        }
+                      ],
+                      "name": "environmental samples ",
+                      "id": "50559"
+                    },
+                    {
+                      "value": 6.03E-5,
+                      "name": "Peptococcaceae ",
+                      "id": "186807"
+                    },
+                    {
+                      "value": 5.19E-5,
+                      "children": [
+                        {
+                          "value": 2.58E-5,
+                          "name": "unclassified Peptostreptococcaceae ",
+                          "id": "200630"
+                        }
+                      ],
+                      "name": "Peptostreptococcaceae ",
+                      "id": "186804"
+                    },
+                    {
+                      "value": 4.76E-5,
+                      "children": [
+                        {
+                          "value": 4.27E-5,
+                          "children": [
+                            {
+                              "value": 3.49E-5,
+                              "children": [
+                                {
+                                  "value": 3.29E-5,
+                                  "name": "uncultured Eubacterium sp. ",
+                                  "id": "165185"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "84372"
+                            }
+                          ],
+                          "name": "Eubacterium ",
+                          "id": "1730"
+                        }
+                      ],
+                      "name": "Eubacteriaceae ",
+                      "id": "186806"
+                    },
+                    {
+                      "value": 2.91E-5,
+                      "children": [
+                        {
+                          "value": 1.21E-6,
+                          "name": "Ruminococcus ",
+                          "id": "1263"
+                        }
+                      ],
+                      "name": "Ruminococcaceae ",
+                      "id": "541000"
+                    },
+                    {
+                      "value": 1.94E-5,
+                      "children": [
+                        {
+                          "value": 1.74E-5,
+                          "name": "unclassified Clostridiales (miscellaneous) ",
+                          "id": "39779"
+                        }
+                      ],
+                      "name": "unclassified Clostridiales ",
+                      "id": "186813"
+                    }
+                  ],
+                  "name": "Clostridiales ",
+                  "id": "186802"
+                },
+                {
+                  "value": 1.88E-5,
+                  "children": [
+                    {
+                      "value": 1.88E-5,
+                      "name": "uncultured Clostridia bacterium ",
+                      "id": "244328"
+                    }
+                  ],
+                  "name": "environmental samples ",
+                  "id": "218638"
+                },
+                {
+                  "value": 2.76E-6,
+                  "name": "Thermoanaerobacterales ",
+                  "id": "68295"
+                }
+              ],
+              "name": "Clostridia ",
+              "id": "186801"
+            },
+            {
+              "value": 0.001252967,
+              "children": [
+                {
+                  "value": 0.001252967,
+                  "children": [
+                    {
+                      "value": 0.001252071,
+                      "children": [
+                        {
+                          "value": 5.69748E-4,
+                          "children": [
+                            {
+                              "value": 8.86E-6,
+                              "children": [
+                                {
+                                  "value": 2.59E-6,
+                                  "name": "uncultured Veillonella sp. ",
+                                  "id": "159268"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "135095"
+                            }
+                          ],
+                          "name": "Veillonella ",
+                          "id": "29465"
+                        },
+                        {
+                          "value": 4.16797E-4,
+                          "children": [
+                            {
+                              "value": 8.2E-7,
+                              "children": [
+                                {
+                                  "value": 8.2E-7,
+                                  "name": "uncultured Selenomonas sp. ",
+                                  "id": "159275"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "89312"
+                            }
+                          ],
+                          "name": "Selenomonas ",
+                          "id": "970"
+                        },
+                        {
+                          "value": 2.27E-6,
+                          "name": "Dialister ",
+                          "id": "39948"
+                        },
+                        {
+                          "value": 2.15E-6,
+                          "children": [
+                            {
+                              "value": 2.15E-6,
+                              "name": "uncultured Veillonellaceae bacterium ",
+                              "id": "194923"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "135094"
+                        }
+                      ],
+                      "name": "Veillonellaceae ",
+                      "id": "31977"
+                    }
+                  ],
+                  "name": "Selenomonadales ",
+                  "id": "909929"
+                }
+              ],
+              "name": "Negativicutes ",
+              "id": "909932"
+            },
+            {
+              "value": 2.67211E-4,
+              "children": [
+                {
+                  "value": 2.57192E-4,
+                  "name": "uncultured Firmicutes bacterium ",
+                  "id": "344338"
+                }
+              ],
+              "name": "environmental samples ",
+              "id": "47928"
+            },
+            {
+              "value": 1.25824E-4,
+              "children": [
+                {
+                  "value": 1.2517E-4,
+                  "children": [
+                    {
+                      "value": 1.23437E-4,
+                      "children": [
+                        {
+                          "value": 4.07E-5,
+                          "children": [
+                            {
+                              "value": 3.12E-5,
+                              "name": "[Eubacterium] dolichum ",
+                              "id": "31971"
+                            }
+                          ],
+                          "name": "unclassified Erysipelotrichaceae ",
+                          "id": "433334"
+                        }
+                      ],
+                      "name": "Erysipelotrichaceae ",
+                      "id": "128827"
+                    }
+                  ],
+                  "name": "Erysipelotrichales ",
+                  "id": "526525"
+                }
+              ],
+              "name": "Erysipelotrichia ",
+              "id": "526524"
+            }
+          ],
+          "name": "Firmicutes ",
+          "id": "1239"
+        },
+        {
+          "value": 0.156876444,
+          "children": [
+            {
+              "value": 0.047417723,
+              "children": [
+                {
+                  "value": 0.010757794,
+                  "children": [
+                    {
+                      "value": 0.004090864,
+                      "children": [
+                        {
+                          "value": 0.00368134,
+                          "children": [
+                            {
+                              "value": 1.61327E-4,
+                              "children": [
+                                {
+                                  "value": 1.61327E-4,
+                                  "name": "uncultured Methylobacterium sp. ",
+                                  "id": "157278"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "129670"
+                            },
+                            {
+                              "value": 6.99E-5,
+                              "name": "Methylobacterium adhaesivum ",
+                              "id": "333297"
+                            }
+                          ],
+                          "name": "Methylobacterium ",
+                          "id": "407"
+                        }
+                      ],
+                      "name": "Methylobacteriaceae ",
+                      "id": "119045"
+                    },
+                    {
+                      "value": 0.002271046,
+                      "children": [
+                        {
+                          "value": 3.50737E-4,
+                          "children": [
+                            {
+                              "value": 3.48555E-4,
+                              "children": [
+                                {
+                                  "value": 3.48555E-4,
+                                  "name": "uncultured Candidatus Liberibacter sp. ",
+                                  "id": "574027"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "574026"
+                            }
+                          ],
+                          "name": "Candidatus Liberibacter ",
+                          "id": "34019"
+                        },
+                        {
+                          "value": 3.26957E-4,
+                          "children": [
+                            {
+                              "value": 4.4E-5,
+                              "children": [
+                                {
+                                  "value": 2.14E-6,
+                                  "children": [
+                                    {
+                                      "value": 2.14E-6,
+                                      "name": "uncultured Rhizobium sp. ",
+                                      "id": "155567"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "129696"
+                                }
+                              ],
+                              "name": "Rhizobium ",
+                              "id": "379"
+                            },
+                            {
+                              "value": 3.88E-5,
+                              "name": "Agrobacterium ",
+                              "id": "357"
+                            }
+                          ],
+                          "name": "Rhizobium/Agrobacterium group ",
+                          "id": "227290"
+                        },
+                        {
+                          "value": 8.04E-7,
+                          "children": [
+                            {
+                              "value": 8.04E-7,
+                              "name": "uncultured Rhizobiaceae bacterium ",
+                              "id": "271151"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "130875"
+                        }
+                      ],
+                      "name": "Rhizobiaceae ",
+                      "id": "82115"
+                    },
+                    {
+                      "value": 0.002220977,
+                      "children": [
+                        {
+                          "value": 3.0593E-4,
+                          "children": [
+                            {
+                              "value": 2.83E-5,
+                              "children": [
+                                {
+                                  "value": 2.83E-5,
+                                  "name": "uncultured Bradyrhizobium sp. ",
+                                  "id": "199684"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "129633"
+                            }
+                          ],
+                          "name": "Bradyrhizobium ",
+                          "id": "374"
+                        },
+                        {
+                          "value": 8.85E-5,
+                          "name": "Rhodopseudomonas ",
+                          "id": "1073"
+                        },
+                        {
+                          "value": 3.11E-5,
+                          "children": [
+                            {
+                              "value": 4.99E-6,
+                              "name": "Afipia genosp. 12 ",
+                              "id": "57044"
+                            }
+                          ],
+                          "name": "Afipia ",
+                          "id": "1033"
+                        },
+                        {
+                          "value": 8.2E-7,
+                          "children": [
+                            {
+                              "value": 8.2E-7,
+                              "name": "uncultured Bradyrhizobiaceae bacterium ",
+                              "id": "181009"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "95757"
+                        }
+                      ],
+                      "name": "Bradyrhizobiaceae ",
+                      "id": "41294"
+                    },
+                    {
+                      "value": 3.44861E-4,
+                      "children": [
+                        {
+                          "value": 2.58392E-4,
+                          "name": "Phyllobacterium ",
+                          "id": "28100"
+                        }
+                      ],
+                      "name": "Phyllobacteriaceae ",
+                      "id": "69277"
+                    },
+                    {
+                      "value": 1.88585E-4,
+                      "name": "Xanthobacteraceae ",
+                      "id": "335928"
+                    },
+                    {
+                      "value": 1.64075E-4,
+                      "children": [
+                        {
+                          "value": 1.64075E-4,
+                          "name": "uncultured Rhizobiales bacterium ",
+                          "id": "208549"
+                        }
+                      ],
+                      "name": "environmental samples ",
+                      "id": "57702"
+                    },
+                    {
+                      "value": 1.06031E-4,
+                      "name": "Aurantimonadaceae ",
+                      "id": "255475"
+                    },
+                    {
+                      "value": 1.05072E-4,
+                      "name": "Hyphomicrobiaceae ",
+                      "id": "45401"
+                    },
+                    {
+                      "value": 9.08E-5,
+                      "children": [
+                        {
+                          "value": 9.03E-5,
+                          "name": "unclassified Rhizobiales (miscellaneous) ",
+                          "id": "41292"
+                        }
+                      ],
+                      "name": "unclassified Rhizobiales ",
+                      "id": "119042"
+                    }
+                  ],
+                  "name": "Rhizobiales ",
+                  "id": "356"
+                },
+                {
+                  "value": 0.001818284,
+                  "children": [
+                    {
+                      "value": 0.001431669,
+                      "children": [
+                        {
+                          "value": 8.11618E-4,
+                          "children": [
+                            {
+                              "value": 9.53E-5,
+                              "children": [
+                                {
+                                  "value": 9.53E-5,
+                                  "name": "uncultured Sphingomonas sp. ",
+                                  "id": "158754"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "114554"
+                            }
+                          ],
+                          "name": "Sphingomonas ",
+                          "id": "13687"
+                        },
+                        {
+                          "value": 5.99E-6,
+                          "children": [
+                            {
+                              "value": 5.99E-6,
+                              "name": "uncultured Sphingomonadaceae bacterium ",
+                              "id": "169976"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "135644"
+                        }
+                      ],
+                      "name": "Sphingomonadaceae ",
+                      "id": "41297"
+                    },
+                    {
+                      "value": 1.36E-5,
+                      "name": "Erythrobacteraceae ",
+                      "id": "335929"
+                    },
+                    {
+                      "value": 3.04E-6,
+                      "children": [
+                        {
+                          "value": 3.04E-6,
+                          "name": "uncultured Sphingomonadales bacterium ",
+                          "id": "293405"
+                        }
+                      ],
+                      "name": "environmental samples ",
+                      "id": "293404"
+                    }
+                  ],
+                  "name": "Sphingomonadales ",
+                  "id": "204457"
+                },
+                {
+                  "value": 0.001354448,
+                  "children": [
+                    {
+                      "value": 0.001273682,
+                      "children": [
+                        {
+                          "value": 6.77151E-4,
+                          "children": [
+                            {
+                              "value": 1.6E-5,
+                              "children": [
+                                {
+                                  "value": 1.6E-5,
+                                  "name": "uncultured Roseomonas sp. ",
+                                  "id": "310606"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "310605"
+                            }
+                          ],
+                          "name": "Roseomonas ",
+                          "id": "125216"
+                        },
+                        {
+                          "value": 9.23E-5,
+                          "name": "Acetobacter ",
+                          "id": "434"
+                        },
+                        {
+                          "value": 3.05E-5,
+                          "children": [
+                            {
+                              "value": 3.05E-5,
+                              "name": "uncultured Acetobacteraceae bacterium ",
+                              "id": "169975"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "134716"
+                        },
+                        {
+                          "value": 5.64E-6,
+                          "name": "Paracraurococcus ",
+                          "id": "77674"
+                        }
+                      ],
+                      "name": "Acetobacteraceae ",
+                      "id": "433"
+                    },
+                    {
+                      "value": 6.3E-5,
+                      "children": [
+                        {
+                          "value": 8.12E-7,
+                          "children": [
+                            {
+                              "value": 8.12E-7,
+                              "name": "uncultured Rhodospirillaceae bacterium ",
+                              "id": "352351"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "65115"
+                        }
+                      ],
+                      "name": "Rhodospirillaceae ",
+                      "id": "41295"
+                    }
+                  ],
+                  "name": "Rhodospirillales ",
+                  "id": "204441"
+                },
+                {
+                  "value": 0.001159011,
+                  "children": [
+                    {
+                      "value": 0.001138683,
+                      "children": [
+                        {
+                          "value": 7.56326E-4,
+                          "children": [
+                            {
+                              "value": 2.84E-6,
+                              "children": [
+                                {
+                                  "value": 2.84E-6,
+                                  "name": "uncultured Paracoccus sp. ",
+                                  "id": "189685"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "129688"
+                            }
+                          ],
+                          "name": "Paracoccus ",
+                          "id": "265"
+                        },
+                        {
+                          "value": 7.92E-6,
+                          "name": "Rhodobacter ",
+                          "id": "1060"
+                        }
+                      ],
+                      "name": "Rhodobacteraceae ",
+                      "id": "31989"
+                    }
+                  ],
+                  "name": "Rhodobacterales ",
+                  "id": "204455"
+                },
+                {
+                  "value": 6.71191E-4,
+                  "children": [
+                    {
+                      "value": 6.435E-4,
+                      "name": "uncultured alpha proteobacterium ",
+                      "id": "91750"
+                    }
+                  ],
+                  "name": "environmental samples ",
+                  "id": "47925"
+                },
+                {
+                  "value": 4.26555E-4,
+                  "children": [
+                    {
+                      "value": 3.6266E-4,
+                      "children": [
+                        {
+                          "value": 3.6028E-4,
+                          "children": [
+                            {
+                              "value": 3.57482E-4,
+                              "name": "Wolbachia ",
+                              "id": "953"
+                            }
+                          ],
+                          "name": "Wolbachieae ",
+                          "id": "952"
+                        }
+                      ],
+                      "name": "Anaplasmataceae ",
+                      "id": "942"
+                    }
+                  ],
+                  "name": "Rickettsiales ",
+                  "id": "766"
+                },
+                {
+                  "value": 2.81541E-4,
+                  "children": [
+                    {
+                      "value": 2.58245E-4,
+                      "children": [
+                        {
+                          "value": 1.56558E-4,
+                          "name": "Brevundimonas ",
+                          "id": "41275"
+                        },
+                        {
+                          "value": 3.09E-5,
+                          "children": [
+                            {
+                              "value": 5.68E-6,
+                              "children": [
+                                {
+                                  "value": 5.68E-6,
+                                  "name": "uncultured Caulobacter sp. ",
+                                  "id": "158749"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "131546"
+                            }
+                          ],
+                          "name": "Caulobacter ",
+                          "id": "75"
+                        }
+                      ],
+                      "name": "Caulobacteraceae ",
+                      "id": "76892"
+                    },
+                    {
+                      "value": 1.39E-6,
+                      "children": [
+                        {
+                          "value": 1.39E-6,
+                          "name": "uncultured Caulobacterales bacterium ",
+                          "id": "395523"
+                        }
+                      ],
+                      "name": "environmental samples ",
+                      "id": "395522"
+                    }
+                  ],
+                  "name": "Caulobacterales ",
+                  "id": "204458"
+                },
+                {
+                  "value": 2.78E-5,
+                  "children": [
+                    {
+                      "value": 2.54E-5,
+                      "name": "unclassified Alphaproteobacteria (miscellaneous) ",
+                      "id": "33807"
+                    }
+                  ],
+                  "name": "unclassified Alphaproteobacteria ",
+                  "id": "82117"
+                }
+              ],
+              "name": "Alphaproteobacteria ",
+              "id": "28211"
+            },
+            {
+              "value": 0.026759452,
+              "children": [
+                {
+                  "value": 0.004654209,
+                  "children": [
+                    {
+                      "value": 0.002136414,
+                      "children": [
+                        {
+                          "value": 0.00110433,
+                          "children": [
+                            {
+                              "value": 2.50627E-4,
+                              "children": [
+                                {
+                                  "value": 2.50627E-4,
+                                  "name": "uncultured Ralstonia sp. ",
+                                  "id": "114715"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "54522"
+                            }
+                          ],
+                          "name": "Ralstonia ",
+                          "id": "48736"
+                        },
+                        {
+                          "value": 3.54E-5,
+                          "children": [
+                            {
+                              "value": 9.36E-6,
+                              "children": [
+                                {
+                                  "value": 9.36E-6,
+                                  "name": "uncultured Burkholderia sp. ",
+                                  "id": "188058"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "77118"
+                            }
+                          ],
+                          "name": "Burkholderia ",
+                          "id": "32008"
+                        }
+                      ],
+                      "name": "Burkholderiaceae ",
+                      "id": "119060"
+                    },
+                    {
+                      "value": 6.38887E-4,
+                      "children": [
+                        {
+                          "value": 4.49E-5,
+                          "name": "Massilia ",
+                          "id": "149698"
+                        },
+                        {
+                          "value": 3.0E-5,
+                          "children": [
+                            {
+                              "value": 1.22E-5,
+                              "children": [
+                                {
+                                  "value": 1.22E-5,
+                                  "name": "uncultured Janthinobacterium sp. ",
+                                  "id": "242828"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "88215"
+                            }
+                          ],
+                          "name": "Janthinobacterium ",
+                          "id": "29580"
+                        },
+                        {
+                          "value": 8.05E-6,
+                          "children": [
+                            {
+                              "value": 8.05E-6,
+                              "name": "uncultured Oxalobacteraceae bacterium ",
+                              "id": "253871"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "321929"
+                        },
+                        {
+                          "value": 4.09E-6,
+                          "name": "Duganella ",
+                          "id": "75654"
+                        }
+                      ],
+                      "name": "Oxalobacteraceae ",
+                      "id": "75682"
+                    },
+                    {
+                      "value": 3.37629E-4,
+                      "children": [
+                        {
+                          "value": 4.35E-5,
+                          "name": "Comamonas ",
+                          "id": "283"
+                        },
+                        {
+                          "value": 2.96E-5,
+                          "children": [
+                            {
+                              "value": 2.96E-5,
+                              "name": "uncultured Comamonadaceae bacterium ",
+                              "id": "165437"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "128082"
+                        },
+                        {
+                          "value": 2.71E-5,
+                          "name": "Acidovorax ",
+                          "id": "12916"
+                        },
+                        {
+                          "value": 1.36E-5,
+                          "name": "Pelomonas ",
+                          "id": "335058"
+                        },
+                        {
+                          "value": 3.7E-6,
+                          "children": [
+                            {
+                              "value": 1.47E-6,
+                              "children": [
+                                {
+                                  "value": 1.47E-6,
+                                  "name": "uncultured Polaromonas sp. ",
+                                  "id": "225016"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "140984"
+                            }
+                          ],
+                          "name": "Polaromonas ",
+                          "id": "52972"
+                        },
+                        {
+                          "value": 2.51E-6,
+                          "children": [
+                            {
+                              "value": 2.51E-6,
+                              "children": [
+                                {
+                                  "value": 2.51E-6,
+                                  "name": "uncultured Hydrogenophaga sp. ",
+                                  "id": "199683"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "199682"
+                            }
+                          ],
+                          "name": "Hydrogenophaga ",
+                          "id": "47420"
+                        }
+                      ],
+                      "name": "Comamonadaceae ",
+                      "id": "80864"
+                    },
+                    {
+                      "value": 8.44E-5,
+                      "name": "Alcaligenaceae ",
+                      "id": "506"
+                    },
+                    {
+                      "value": 4.47E-5,
+                      "children": [
+                        {
+                          "value": 4.31E-5,
+                          "children": [
+                            {
+                              "value": 3.77E-6,
+                              "children": [
+                                {
+                                  "value": 2.52E-6,
+                                  "name": "environmental samples ",
+                                  "id": "163536"
+                                }
+                              ],
+                              "name": "Leptothrix ",
+                              "id": "88"
+                            },
+                            {
+                              "value": 3.49E-6,
+                              "children": [
+                                {
+                                  "value": 2.71E-7,
+                                  "children": [
+                                    {
+                                      "value": 2.71E-7,
+                                      "name": "uncultured Sphaerotilus sp. ",
+                                      "id": "474984"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "474983"
+                                }
+                              ],
+                              "name": "Sphaerotilus ",
+                              "id": "34102"
+                            },
+                            {
+                              "value": 3.04E-6,
+                              "name": "Mitsuaria ",
+                              "id": "65047"
+                            },
+                            {
+                              "value": 2.15E-6,
+                              "children": [
+                                {
+                                  "value": 2.15E-6,
+                                  "children": [
+                                    {
+                                      "value": 2.15E-6,
+                                      "name": "uncultured Methylibium sp. ",
+                                      "id": "381093"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "381092"
+                                }
+                              ],
+                              "name": "Methylibium ",
+                              "id": "316612"
+                            }
+                          ],
+                          "name": "Burkholderiales Genera incertae sedis ",
+                          "id": "224471"
+                        }
+                      ],
+                      "name": "unclassified Burkholderiales ",
+                      "id": "119065"
+                    },
+                    {
+                      "value": 1.91E-5,
+                      "children": [
+                        {
+                          "value": 1.91E-5,
+                          "name": "uncultured Burkholderiales bacterium ",
+                          "id": "208544"
+                        }
+                      ],
+                      "name": "environmental samples ",
+                      "id": "208545"
+                    }
+                  ],
+                  "name": "Burkholderiales ",
+                  "id": "80840"
+                },
+                {
+                  "value": 7.28995E-4,
+                  "children": [
+                    {
+                      "value": 6.32542E-4,
+                      "children": [
+                        {
+                          "value": 2.90682E-4,
+                          "children": [
+                            {
+                              "value": 1.54E-5,
+                              "children": [
+                                {
+                                  "value": 1.49E-5,
+                                  "name": "uncultured Neisseria sp. ",
+                                  "id": "237778"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "129685"
+                            }
+                          ],
+                          "name": "Neisseria ",
+                          "id": "482"
+                        }
+                      ],
+                      "name": "Neisseriaceae ",
+                      "id": "481"
+                    }
+                  ],
+                  "name": "Neisseriales ",
+                  "id": "206351"
+                },
+                {
+                  "value": 1.86602E-4,
+                  "children": [
+                    {
+                      "value": 1.80697E-4,
+                      "name": "uncultured beta proteobacterium ",
+                      "id": "86027"
+                    }
+                  ],
+                  "name": "environmental samples ",
+                  "id": "47926"
+                },
+                {
+                  "value": 1.2192E-4,
+                  "children": [
+                    {
+                      "value": 1.21379E-4,
+                      "children": [
+                        {
+                          "value": 4.44E-5,
+                          "children": [
+                            {
+                              "value": 3.38E-5,
+                              "children": [
+                                {
+                                  "value": 3.38E-5,
+                                  "name": "uncultured Dechloromonas sp. ",
+                                  "id": "171719"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "171718"
+                            },
+                            {
+                              "value": 1.06E-5,
+                              "name": "Dechloromonas sp. HZ ",
+                              "id": "188737"
+                            }
+                          ],
+                          "name": "Dechloromonas ",
+                          "id": "73029"
+                        }
+                      ],
+                      "name": "Rhodocyclaceae ",
+                      "id": "75787"
+                    }
+                  ],
+                  "name": "Rhodocyclales ",
+                  "id": "206389"
+                },
+                {
+                  "value": 1.11E-5,
+                  "children": [
+                    {
+                      "value": 3.71E-6,
+                      "name": "unclassified Betaproteobacteria (miscellaneous) ",
+                      "id": "33809"
+                    }
+                  ],
+                  "name": "unclassified Betaproteobacteria ",
+                  "id": "119066"
+                },
+                {
+                  "value": 6.51E-6,
+                  "children": [
+                    {
+                      "value": 6.51E-6,
+                      "children": [
+                        {
+                          "value": 2.26E-6,
+                          "children": [
+                            {
+                              "value": 2.26E-6,
+                              "name": "uncultured Nitrosomonadaceae bacterium ",
+                              "id": "207829"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "47949"
+                        }
+                      ],
+                      "name": "Nitrosomonadaceae ",
+                      "id": "206379"
+                    }
+                  ],
+                  "name": "Nitrosomonadales ",
+                  "id": "32003"
+                }
+              ],
+              "name": "Betaproteobacteria ",
+              "id": "28216"
+            },
+            {
+              "value": 0.020530777,
+              "children": [
+                {
+                  "value": 0.009684847,
+                  "children": [
+                    {
+                      "value": 0.005365888,
+                      "children": [
+                        {
+                          "value": 0.002864949,
+                          "children": [
+                            {
+                              "value": 4.06918E-4,
+                              "children": [
+                                {
+                                  "value": 2.04433E-4,
+                                  "name": "uncultured Acinetobacter sp. ",
+                                  "id": "165433"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "75661"
+                            },
+                            {
+                              "value": 4.9E-6,
+                              "children": [
+                                {
+                                  "value": 2.55E-6,
+                                  "name": "Acinetobacter calcoaceticus ",
+                                  "id": "471"
+                                },
+                                {
+                                  "value": 2.35E-6,
+                                  "name": "Acinetobacter baumannii ",
+                                  "id": "470"
+                                }
+                              ],
+                              "name": "Acinetobacter calcoaceticus/baumannii complex ",
+                              "id": "909768"
+                            }
+                          ],
+                          "name": "Acinetobacter ",
+                          "id": "469"
+                        },
+                        {
+                          "value": 0.001884546,
+                          "children": [
+                            {
+                              "value": 3.84718E-4,
+                              "children": [
+                                {
+                                  "value": 3.8338E-4,
+                                  "name": "uncultured Psychrobacter sp. ",
+                                  "id": "259303"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "126514"
+                            }
+                          ],
+                          "name": "Psychrobacter ",
+                          "id": "497"
+                        },
+                        {
+                          "value": 1.76637E-4,
+                          "children": [
+                            {
+                              "value": 1.45408E-4,
+                              "children": [
+                                {
+                                  "value": 2.71E-7,
+                                  "name": "Moraxella osloensis ",
+                                  "id": "34062"
+                                }
+                              ],
+                              "name": "Moraxella ",
+                              "id": "46225"
+                            }
+                          ],
+                          "name": "Moraxella ",
+                          "id": "475"
+                        },
+                        {
+                          "value": 1.84E-6,
+                          "name": "unclassified Moraxellaceae ",
+                          "id": "54393"
+                        }
+                      ],
+                      "name": "Moraxellaceae ",
+                      "id": "468"
+                    },
+                    {
+                      "value": 0.003480069,
+                      "children": [
+                        {
+                          "value": 0.003143665,
+                          "children": [
+                            {
+                              "value": 3.28885E-4,
+                              "children": [
+                                {
+                                  "value": 3.1212E-4,
+                                  "name": "uncultured Pseudomonas sp. ",
+                                  "id": "114707"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "62104"
+                            },
+                            {
+                              "value": 6.8E-5,
+                              "children": [
+                                {
+                                  "value": 3.56E-5,
+                                  "name": "Pseudomonas fluorescens ",
+                                  "id": "294"
+                                },
+                                {
+                                  "value": 4.02E-6,
+                                  "name": "Pseudomonas corrugata ",
+                                  "id": "47879"
+                                },
+                                {
+                                  "value": 3.59E-6,
+                                  "name": "Pseudomonas veronii ",
+                                  "id": "76761"
+                                },
+                                {
+                                  "value": 1.63E-6,
+                                  "name": "Pseudomonas synxantha ",
+                                  "id": "47883"
+                                }
+                              ],
+                              "name": "Pseudomonas fluorescens group ",
+                              "id": "136843"
+                            },
+                            {
+                              "value": 2.63E-5,
+                              "children": [
+                                {
+                                  "value": 1.61E-5,
+                                  "name": "Pseudomonas putida ",
+                                  "id": "303"
+                                },
+                                {
+                                  "value": 8.62E-6,
+                                  "name": "Pseudomonas plecoglossicida ",
+                                  "id": "70775"
+                                }
+                              ],
+                              "name": "Pseudomonas putida group ",
+                              "id": "136845"
+                            },
+                            {
+                              "value": 1.63E-5,
+                              "children": [
+                                {
+                                  "value": 8.14E-6,
+                                  "name": "Pseudomonas aeruginosa ",
+                                  "id": "287"
+                                },
+                                {
+                                  "value": 2.66E-6,
+                                  "name": "Pseudomonas citronellolis ",
+                                  "id": "53408"
+                                },
+                                {
+                                  "value": 3.1E-7,
+                                  "name": "Pseudomonas oleovorans/pseudoalcaligenes group ",
+                                  "id": "1232139"
+                                }
+                              ],
+                              "name": "Pseudomonas aeruginosa group ",
+                              "id": "136841"
+                            },
+                            {
+                              "value": 8.5E-6,
+                              "children": [
+                                {
+                                  "value": 3.11E-6,
+                                  "children": [
+                                    {
+                                      "value": 3.11E-6,
+                                      "name": "Pseudomonas stutzeri ",
+                                      "id": "316"
+                                    }
+                                  ],
+                                  "name": "Pseudomonas stutzeri subgroup ",
+                                  "id": "578833"
+                                }
+                              ],
+                              "name": "Pseudomonas stutzeri group ",
+                              "id": "136846"
+                            },
+                            {
+                              "value": 5.23E-6,
+                              "name": "Pseudomonas sp. VS05_13 ",
+                              "id": "670996"
+                            },
+                            {
+                              "value": 4.88E-6,
+                              "children": [
+                                {
+                                  "value": 2.94E-6,
+                                  "children": [
+                                    {
+                                      "value": 2.94E-6,
+                                      "name": "Pseudomonas syringae ",
+                                      "id": "317"
+                                    }
+                                  ],
+                                  "name": "Pseudomonas syringae group genomosp. 1 ",
+                                  "id": "251695"
+                                }
+                              ],
+                              "name": "Pseudomonas syringae group ",
+                              "id": "136849"
+                            }
+                          ],
+                          "name": "Pseudomonas ",
+                          "id": "286"
+                        },
+                        {
+                          "value": 7.08E-6,
+                          "children": [
+                            {
+                              "value": 7.08E-6,
+                              "name": "uncultured Pseudomonadaceae bacterium ",
+                              "id": "220135"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "220134"
+                        }
+                      ],
+                      "name": "Pseudomonadaceae ",
+                      "id": "135621"
+                    },
+                    {
+                      "value": 1.21E-5,
+                      "children": [
+                        {
+                          "value": 1.21E-5,
+                          "name": "uncultured Pseudomonadales bacterium ",
+                          "id": "332614"
+                        }
+                      ],
+                      "name": "environmental samples ",
+                      "id": "97500"
+                    }
+                  ],
+                  "name": "Pseudomonadales ",
+                  "id": "72274"
+                },
+                {
+                  "value": 6.93368E-4,
+                  "children": [
+                    {
+                      "value": 6.6416E-4,
+                      "children": [
+                        {
+                          "value": 2.91457E-4,
+                          "children": [
+                            {
+                              "value": 4.9E-7,
+                              "children": [
+                                {
+                                  "value": 4.9E-7,
+                                  "name": "uncultured Haemophilus sp. ",
+                                  "id": "237779"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "134229"
+                            }
+                          ],
+                          "name": "Haemophilus ",
+                          "id": "724"
+                        }
+                      ],
+                      "name": "Pasteurellaceae ",
+                      "id": "712"
+                    }
+                  ],
+                  "name": "Pasteurellales ",
+                  "id": "135625"
+                },
+                {
+                  "value": 6.52601E-4,
+                  "children": [
+                    {
+                      "value": 6.32862E-4,
+                      "children": [
+                        {
+                          "value": 1.26778E-4,
+                          "name": "Rahnella ",
+                          "id": "34037"
+                        },
+                        {
+                          "value": 3.99E-5,
+                          "name": "Pantoea ",
+                          "id": "53335"
+                        },
+                        {
+                          "value": 1.15E-6,
+                          "children": [
+                            {
+                              "value": 1.15E-6,
+                              "name": "uncultured Enterobacteriaceae bacterium ",
+                              "id": "218034"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "47938"
+                        },
+                        {
+                          "value": 5.66E-7,
+                          "name": "Enterobacter ",
+                          "id": "547"
+                        }
+                      ],
+                      "name": "Enterobacteriaceae ",
+                      "id": "543"
+                    }
+                  ],
+                  "name": "Enterobacteriales ",
+                  "id": "91347"
+                },
+                {
+                  "value": 4.47132E-4,
+                  "children": [
+                    {
+                      "value": 4.08423E-4,
+                      "children": [
+                        {
+                          "value": 1.54799E-4,
+                          "children": [
+                            {
+                              "value": 2.99E-6,
+                              "name": "environmental samples ",
+                              "id": "97940"
+                            }
+                          ],
+                          "name": "Stenotrophomonas ",
+                          "id": "40323"
+                        },
+                        {
+                          "value": 3.7E-5,
+                          "name": "Xanthomonas ",
+                          "id": "338"
+                        },
+                        {
+                          "value": 4.86E-6,
+                          "name": "Pseudoxanthomonas ",
+                          "id": "83618"
+                        }
+                      ],
+                      "name": "Xanthomonadaceae ",
+                      "id": "32033"
+                    }
+                  ],
+                  "name": "Xanthomonadales ",
+                  "id": "135614"
+                },
+                {
+                  "value": 1.67372E-4,
+                  "children": [
+                    {
+                      "value": 1.59668E-4,
+                      "name": "uncultured gamma proteobacterium ",
+                      "id": "86473"
+                    }
+                  ],
+                  "name": "environmental samples ",
+                  "id": "50423"
+                },
+                {
+                  "value": 1.51637E-4,
+                  "children": [
+                    {
+                      "value": 1.30786E-4,
+                      "children": [
+                        {
+                          "value": 1.44E-5,
+                          "children": [
+                            {
+                              "value": 5.48E-7,
+                              "name": "Candidatus Halomonas phosphatis ",
+                              "id": "1107859"
+                            }
+                          ],
+                          "name": "Halomonas ",
+                          "id": "2745"
+                        }
+                      ],
+                      "name": "Halomonadaceae ",
+                      "id": "28256"
+                    },
+                    {
+                      "value": 5.26E-6,
+                      "name": "Oceanospirillaceae ",
+                      "id": "135620"
+                    }
+                  ],
+                  "name": "Oceanospirillales ",
+                  "id": "135619"
+                },
+                {
+                  "value": 6.05E-5,
+                  "children": [
+                    {
+                      "value": 2.04E-5,
+                      "name": "Alteromonadaceae ",
+                      "id": "72275"
+                    },
+                    {
+                      "value": 4.33E-6,
+                      "children": [
+                        {
+                          "value": 4.33E-6,
+                          "name": "Pseudoalteromonas ",
+                          "id": "53246"
+                        }
+                      ],
+                      "name": "Pseudoalteromonadaceae ",
+                      "id": "267888"
+                    }
+                  ],
+                  "name": "Alteromonadales ",
+                  "id": "135622"
+                },
+                {
+                  "value": 2.91E-5,
+                  "name": "Legionellales ",
+                  "id": "118969"
+                },
+                {
+                  "value": 1.72E-5,
+                  "children": [
+                    {
+                      "value": 1.42E-5,
+                      "name": "Aeromonadaceae ",
+                      "id": "84642"
+                    }
+                  ],
+                  "name": "Aeromonadales ",
+                  "id": "135624"
+                },
+                {
+                  "value": 1.54E-5,
+                  "children": [
+                    {
+                      "value": 1.44E-5,
+                      "name": "unclassified Gammaproteobacteria (miscellaneous) ",
+                      "id": "33811"
+                    }
+                  ],
+                  "name": "unclassified Gammaproteobacteria ",
+                  "id": "118884"
+                },
+                {
+                  "value": 1.04E-5,
+                  "children": [
+                    {
+                      "value": 1.04E-5,
+                      "children": [
+                        {
+                          "value": 9.17E-6,
+                          "name": "Vibrio ",
+                          "id": "662"
+                        }
+                      ],
+                      "name": "Vibrionaceae ",
+                      "id": "641"
+                    }
+                  ],
+                  "name": "Vibrionales ",
+                  "id": "135623"
+                },
+                {
+                  "value": 8.59E-7,
+                  "children": [
+                    {
+                      "value": 8.59E-7,
+                      "children": [
+                        {
+                          "value": 8.59E-7,
+                          "children": [
+                            {
+                              "value": 8.59E-7,
+                              "children": [
+                                {
+                                  "value": 8.59E-7,
+                                  "name": "uncultured Methylobacter sp. ",
+                                  "id": "153499"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "107642"
+                            }
+                          ],
+                          "name": "Methylobacter ",
+                          "id": "429"
+                        }
+                      ],
+                      "name": "Methylococcaceae ",
+                      "id": "403"
+                    }
+                  ],
+                  "name": "Methylococcales ",
+                  "id": "135618"
+                },
+                {
+                  "value": 4.61E-7,
+                  "children": [
+                    {
+                      "value": 4.61E-7,
+                      "children": [
+                        {
+                          "value": 4.61E-7,
+                          "name": "Francisella ",
+                          "id": "262"
+                        }
+                      ],
+                      "name": "Francisellaceae ",
+                      "id": "34064"
+                    }
+                  ],
+                  "name": "Thiotrichales ",
+                  "id": "72273"
+                },
+                {
+                  "value": 2.71E-7,
+                  "name": "Chromatiales ",
+                  "id": "135613"
+                }
+              ],
+              "name": "Gammaproteobacteria ",
+              "id": "1236"
+            },
+            {
+              "value": 0.001715739,
+              "children": [
+                {
+                  "value": 0.00145159,
+                  "children": [
+                    {
+                      "value": 2.52138E-4,
+                      "children": [
+                        {
+                          "value": 6.44E-5,
+                          "children": [
+                            {
+                              "value": 4.63E-5,
+                              "name": "Polyangiaceae ",
+                              "id": "49"
+                            }
+                          ],
+                          "name": "Sorangiineae ",
+                          "id": "80812"
+                        },
+                        {
+                          "value": 7.16E-6,
+                          "children": [
+                            {
+                              "value": 7.16E-6,
+                              "name": "uncultured Myxococcales bacterium ",
+                              "id": "253830"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "65121"
+                        }
+                      ],
+                      "name": "Myxococcales ",
+                      "id": "29"
+                    },
+                    {
+                      "value": 1.95013E-4,
+                      "children": [
+                        {
+                          "value": 1.91296E-4,
+                          "name": "uncultured delta proteobacterium ",
+                          "id": "34034"
+                        }
+                      ],
+                      "name": "environmental samples ",
+                      "id": "34033"
+                    },
+                    {
+                      "value": 2.88E-6,
+                      "children": [
+                        {
+                          "value": 2.61E-6,
+                          "children": [
+                            {
+                              "value": 1.21E-6,
+                              "children": [
+                                {
+                                  "value": 1.21E-6,
+                                  "children": [
+                                    {
+                                      "value": 1.21E-6,
+                                      "name": "uncultured Geobacter sp. ",
+                                      "id": "186741"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "65831"
+                                }
+                              ],
+                              "name": "Geobacter ",
+                              "id": "28231"
+                            }
+                          ],
+                          "name": "Geobacteraceae ",
+                          "id": "213422"
+                        }
+                      ],
+                      "name": "Desulfuromonadales ",
+                      "id": "69541"
+                    },
+                    {
+                      "value": 8.12E-7,
+                      "name": "Desulfobacterales ",
+                      "id": "213118"
+                    },
+                    {
+                      "value": 4.94E-7,
+                      "children": [
+                        {
+                          "value": 4.94E-7,
+                          "children": [
+                            {
+                              "value": 4.94E-7,
+                              "children": [
+                                {
+                                  "value": 4.94E-7,
+                                  "children": [
+                                    {
+                                      "value": 4.94E-7,
+                                      "name": "uncultured Desulforhabdus sp. ",
+                                      "id": "543035"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "543034"
+                                }
+                              ],
+                              "name": "Desulforhabdus ",
+                              "id": "39840"
+                            }
+                          ],
+                          "name": "Syntrophobacteraceae ",
+                          "id": "213465"
+                        }
+                      ],
+                      "name": "Syntrophobacterales ",
+                      "id": "213462"
+                    }
+                  ],
+                  "name": "Deltaproteobacteria ",
+                  "id": "28221"
+                },
+                {
+                  "value": 2.61332E-4,
+                  "children": [
+                    {
+                      "value": 2.11771E-4,
+                      "children": [
+                        {
+                          "value": 1.92261E-4,
+                          "children": [
+                            {
+                              "value": 1.86194E-4,
+                              "name": "Campylobacter ",
+                              "id": "194"
+                            }
+                          ],
+                          "name": "Campylobacteraceae ",
+                          "id": "72294"
+                        },
+                        {
+                          "value": 1.35E-5,
+                          "children": [
+                            {
+                              "value": 1.17E-5,
+                              "children": [
+                                {
+                                  "value": 2.71E-7,
+                                  "name": "Helicobacter sp. \u0027liver 3\u0027 ",
+                                  "id": "93982"
+                                }
+                              ],
+                              "name": "Helicobacter ",
+                              "id": "209"
+                            }
+                          ],
+                          "name": "Helicobacteraceae ",
+                          "id": "72293"
+                        }
+                      ],
+                      "name": "Campylobacterales ",
+                      "id": "213849"
+                    },
+                    {
+                      "value": 1.47E-5,
+                      "children": [
+                        {
+                          "value": 1.42E-5,
+                          "name": "uncultured epsilon proteobacterium ",
+                          "id": "120858"
+                        }
+                      ],
+                      "name": "environmental samples ",
+                      "id": "87828"
+                    }
+                  ],
+                  "name": "Epsilonproteobacteria ",
+                  "id": "29547"
+                }
+              ],
+              "name": "delta/epsilon subdivisions ",
+              "id": "68525"
+            },
+            {
+              "value": 4.4065E-4,
+              "children": [
+                {
+                  "value": 4.38961E-4,
+                  "name": "uncultured proteobacterium ",
+                  "id": "153809"
+                }
+              ],
+              "name": "environmental samples ",
+              "id": "47936"
+            },
+            {
+              "value": 1.21E-5,
+              "children": [
+                {
+                  "value": 1.13E-5,
+                  "children": [
+                    {
+                      "value": 6.78E-6,
+                      "name": "Pseudomonas sp. ",
+                      "id": "306"
+                    }
+                  ],
+                  "name": "unclassified pseudomonads ",
+                  "id": "45359"
+                }
+              ],
+              "name": "unclassified Proteobacteria ",
+              "id": "32045"
+            }
+          ],
+          "name": "Proteobacteria ",
+          "id": "1224"
+        },
+        {
+          "value": 0.081463667,
+          "children": [
+            {
+              "value": 0.081463667,
+              "children": [
+                {
+                  "value": 0.030700465,
+                  "children": [
+                    {
+                      "value": 0.028979117,
+                      "children": [
+                        {
+                          "value": 0.012148891,
+                          "children": [
+                            {
+                              "value": 0.004626553,
+                              "children": [
+                                {
+                                  "value": 0.001811561,
+                                  "children": [
+                                    {
+                                      "value": 7.3E-6,
+                                      "name": "Micrococcus luteus ",
+                                      "id": "1270"
+                                    }
+                                  ],
+                                  "name": "Micrococcus ",
+                                  "id": "1269"
+                                },
+                                {
+                                  "value": 0.001066522,
+                                  "children": [
+                                    {
+                                      "value": 4.38E-6,
+                                      "name": "Kocuria rosea ",
+                                      "id": "1275"
+                                    },
+                                    {
+                                      "value": 2.99E-6,
+                                      "name": "Kocuria rhizophila ",
+                                      "id": "72000"
+                                    }
+                                  ],
+                                  "name": "Kocuria ",
+                                  "id": "57493"
+                                },
+                                {
+                                  "value": 3.45779E-4,
+                                  "children": [
+                                    {
+                                      "value": 1.1E-6,
+                                      "children": [
+                                        {
+                                          "value": 1.1E-6,
+                                          "name": "uncultured Arthrobacter sp. ",
+                                          "id": "114050"
+                                        }
+                                      ],
+                                      "name": "environmental samples ",
+                                      "id": "89306"
+                                    }
+                                  ],
+                                  "name": "Arthrobacter ",
+                                  "id": "1663"
+                                },
+                                {
+                                  "value": 1.13779E-4,
+                                  "children": [
+                                    {
+                                      "value": 2.01E-6,
+                                      "children": [
+                                        {
+                                          "value": 2.01E-6,
+                                          "name": "uncultured Rothia sp. ",
+                                          "id": "316088"
+                                        }
+                                      ],
+                                      "name": "environmental samples ",
+                                      "id": "248710"
+                                    }
+                                  ],
+                                  "name": "Rothia ",
+                                  "id": "32207"
+                                }
+                              ],
+                              "name": "Micrococcaceae ",
+                              "id": "1268"
+                            },
+                            {
+                              "value": 0.001825029,
+                              "children": [
+                                {
+                                  "value": 5.93059E-4,
+                                  "children": [
+                                    {
+                                      "value": 4.9E-7,
+                                      "name": "Microbacterium oxydans ",
+                                      "id": "82380"
+                                    }
+                                  ],
+                                  "name": "Microbacterium ",
+                                  "id": "33882"
+                                },
+                                {
+                                  "value": 4.88319E-4,
+                                  "children": [
+                                    {
+                                      "value": 1.41E-6,
+                                      "name": "Pseudoclavibacter helvolus ",
+                                      "id": "255205"
+                                    }
+                                  ],
+                                  "name": "Pseudoclavibacter ",
+                                  "id": "255204"
+                                },
+                                {
+                                  "value": 9.75E-5,
+                                  "name": "Rathayibacter ",
+                                  "id": "33886"
+                                },
+                                {
+                                  "value": 9.61E-5,
+                                  "name": "Agrococcus ",
+                                  "id": "46352"
+                                },
+                                {
+                                  "value": 4.12E-5,
+                                  "name": "Leifsonia ",
+                                  "id": "110932"
+                                }
+                              ],
+                              "name": "Microbacteriaceae ",
+                              "id": "85023"
+                            },
+                            {
+                              "value": 5.83662E-4,
+                              "children": [
+                                {
+                                  "value": 5.65433E-4,
+                                  "children": [
+                                    {
+                                      "value": 3.47E-6,
+                                      "children": [
+                                        {
+                                          "value": 3.47E-6,
+                                          "name": "uncultured Brevibacterium sp. ",
+                                          "id": "189678"
+                                        }
+                                      ],
+                                      "name": "environmental samples ",
+                                      "id": "189677"
+                                    }
+                                  ],
+                                  "name": "Brevibacterium ",
+                                  "id": "1696"
+                                }
+                              ],
+                              "name": "Brevibacteriaceae ",
+                              "id": "85019"
+                            },
+                            {
+                              "value": 5.78244E-4,
+                              "children": [
+                                {
+                                  "value": 8.02E-5,
+                                  "name": "Ornithinimicrobium ",
+                                  "id": "125287"
+                                },
+                                {
+                                  "value": 5.2E-5,
+                                  "name": "Janibacter ",
+                                  "id": "53457"
+                                },
+                                {
+                                  "value": 1.12E-5,
+                                  "name": "Arsenicicoccus ",
+                                  "id": "267408"
+                                },
+                                {
+                                  "value": 2.98E-6,
+                                  "name": "Knoellia ",
+                                  "id": "136099"
+                                },
+                                {
+                                  "value": 7.14E-7,
+                                  "name": "Tetrasphaera ",
+                                  "id": "99479"
+                                }
+                              ],
+                              "name": "Intrasporangiaceae ",
+                              "id": "85021"
+                            },
+                            {
+                              "value": 5.36715E-4,
+                              "children": [
+                                {
+                                  "value": 5.15327E-4,
+                                  "name": "Brachybacterium ",
+                                  "id": "43668"
+                                }
+                              ],
+                              "name": "Dermabacteraceae ",
+                              "id": "85020"
+                            },
+                            {
+                              "value": 1.23199E-4,
+                              "children": [
+                                {
+                                  "value": 7.23E-5,
+                                  "name": "Dermacoccus ",
+                                  "id": "57495"
+                                }
+                              ],
+                              "name": "Dermacoccaceae ",
+                              "id": "145357"
+                            },
+                            {
+                              "value": 1.16851E-4,
+                              "children": [
+                                {
+                                  "value": 8.13E-5,
+                                  "children": [
+                                    {
+                                      "value": 1.32E-6,
+                                      "children": [
+                                        {
+                                          "value": 1.32E-6,
+                                          "name": "uncultured Cellulomonas sp. ",
+                                          "id": "189682"
+                                        }
+                                      ],
+                                      "name": "environmental samples ",
+                                      "id": "189681"
+                                    }
+                                  ],
+                                  "name": "Cellulomonas ",
+                                  "id": "1707"
+                                }
+                              ],
+                              "name": "Cellulomonadaceae ",
+                              "id": "85016"
+                            },
+                            {
+                              "value": 2.51E-5,
+                              "name": "Promicromonosporaceae ",
+                              "id": "85017"
+                            }
+                          ],
+                          "name": "Micrococcineae ",
+                          "id": "85006"
+                        },
+                        {
+                          "value": 0.007972708,
+                          "children": [
+                            {
+                              "value": 0.004235245,
+                              "children": [
+                                {
+                                  "value": 0.004134419,
+                                  "children": [
+                                    {
+                                      "value": 1.82E-5,
+                                      "name": "Rhodococcus erythropolis ",
+                                      "id": "1833"
+                                    },
+                                    {
+                                      "value": 7.67E-6,
+                                      "children": [
+                                        {
+                                          "value": 7.67E-6,
+                                          "name": "uncultured Rhodococcus sp. ",
+                                          "id": "194249"
+                                        }
+                                      ],
+                                      "name": "environmental samples ",
+                                      "id": "129699"
+                                    },
+                                    {
+                                      "value": 1.56E-6,
+                                      "name": "Rhodococcus sp. \u0027Iso St 1\u0027 ",
+                                      "id": "457085"
+                                    }
+                                  ],
+                                  "name": "Rhodococcus ",
+                                  "id": "1827"
+                                }
+                              ],
+                              "name": "Nocardiaceae ",
+                              "id": "85025"
+                            },
+                            {
+                              "value": 0.001680916,
+                              "children": [
+                                {
+                                  "value": 0.001569939,
+                                  "children": [
+                                    {
+                                      "value": 2.5E-5,
+                                      "children": [
+                                        {
+                                          "value": 2.08E-5,
+                                          "name": "uncultured Corynebacterium sp. ",
+                                          "id": "159447"
+                                        }
+                                      ],
+                                      "name": "environmental samples ",
+                                      "id": "88601"
+                                    }
+                                  ],
+                                  "name": "Corynebacterium ",
+                                  "id": "1716"
+                                }
+                              ],
+                              "name": "Corynebacteriaceae ",
+                              "id": "1653"
+                            },
+                            {
+                              "value": 8.98257E-4,
+                              "children": [
+                                {
+                                  "value": 8.71018E-4,
+                                  "children": [
+                                    {
+                                      "value": 8.2E-6,
+                                      "name": "Mycobacterium chelonae group ",
+                                      "id": "670516"
+                                    },
+                                    {
+                                      "value": 7.67E-6,
+                                      "children": [
+                                        {
+                                          "value": 7.67E-6,
+                                          "name": "uncultured Mycobacterium sp. ",
+                                          "id": "171292"
+                                        }
+                                      ],
+                                      "name": "environmental samples ",
+                                      "id": "97818"
+                                    }
+                                  ],
+                                  "name": "Mycobacterium ",
+                                  "id": "1763"
+                                },
+                                {
+                                  "value": 8.2E-7,
+                                  "children": [
+                                    {
+                                      "value": 8.2E-7,
+                                      "name": "uncultured Mycobacteriaceae bacterium ",
+                                      "id": "257460"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "257459"
+                                }
+                              ],
+                              "name": "Mycobacteriaceae ",
+                              "id": "1762"
+                            },
+                            {
+                              "value": 4.18516E-4,
+                              "children": [
+                                {
+                                  "value": 4.17862E-4,
+                                  "name": "Dietzia ",
+                                  "id": "37914"
+                                }
+                              ],
+                              "name": "Dietziaceae ",
+                              "id": "85029"
+                            },
+                            {
+                              "value": 3.42342E-4,
+                              "children": [
+                                {
+                                  "value": 3.37595E-4,
+                                  "name": "Gordonia ",
+                                  "id": "2053"
+                                }
+                              ],
+                              "name": "Gordoniaceae ",
+                              "id": "85026"
+                            }
+                          ],
+                          "name": "Corynebacterineae ",
+                          "id": "85007"
+                        },
+                        {
+                          "value": 0.001157216,
+                          "children": [
+                            {
+                              "value": 6.21448E-4,
+                              "children": [
+                                {
+                                  "value": 2.86519E-4,
+                                  "children": [
+                                    {
+                                      "value": 9.16E-5,
+                                      "children": [
+                                        {
+                                          "value": 9.16E-5,
+                                          "name": "uncultured Propionibacterium sp. ",
+                                          "id": "218066"
+                                        }
+                                      ],
+                                      "name": "environmental samples ",
+                                      "id": "135077"
+                                    },
+                                    {
+                                      "value": 2.51E-5,
+                                      "name": "Propionibacterium acnes ",
+                                      "id": "1747"
+                                    }
+                                  ],
+                                  "name": "Propionibacterium ",
+                                  "id": "1743"
+                                },
+                                {
+                                  "value": 1.39E-5,
+                                  "name": "Microlunatus ",
+                                  "id": "29404"
+                                },
+                                {
+                                  "value": 3.24E-6,
+                                  "children": [
+                                    {
+                                      "value": 3.24E-6,
+                                      "name": "uncultured Propionibacteriaceae bacterium ",
+                                      "id": "257457"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "257456"
+                                }
+                              ],
+                              "name": "Propionibacteriaceae ",
+                              "id": "31957"
+                            },
+                            {
+                              "value": 4.3152E-4,
+                              "children": [
+                                {
+                                  "value": 1.89232E-4,
+                                  "children": [
+                                    {
+                                      "value": 4.18E-6,
+                                      "children": [
+                                        {
+                                          "value": 4.18E-6,
+                                          "name": "uncultured Nocardioides sp. ",
+                                          "id": "198441"
+                                        }
+                                      ],
+                                      "name": "environmental samples ",
+                                      "id": "198440"
+                                    }
+                                  ],
+                                  "name": "Nocardioides ",
+                                  "id": "1839"
+                                },
+                                {
+                                  "value": 1.51562E-4,
+                                  "name": "Friedmanniella ",
+                                  "id": "53387"
+                                },
+                                {
+                                  "value": 4.8E-6,
+                                  "name": "Marmoricola ",
+                                  "id": "86795"
+                                }
+                              ],
+                              "name": "Nocardioidaceae ",
+                              "id": "85015"
+                            },
+                            {
+                              "value": 1.08E-6,
+                              "children": [
+                                {
+                                  "value": 1.08E-6,
+                                  "name": "uncultured Propionibacterineae bacterium ",
+                                  "id": "197514"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "197513"
+                            }
+                          ],
+                          "name": "Propionibacterineae ",
+                          "id": "85009"
+                        },
+                        {
+                          "value": 9.646E-4,
+                          "children": [
+                            {
+                              "value": 9.646E-4,
+                              "children": [
+                                {
+                                  "value": 8.79893E-4,
+                                  "children": [
+                                    {
+                                      "value": 2.64E-5,
+                                      "children": [
+                                        {
+                                          "value": 2.5E-5,
+                                          "name": "uncultured Actinomyces sp. ",
+                                          "id": "249061"
+                                        }
+                                      ],
+                                      "name": "environmental samples ",
+                                      "id": "129591"
+                                    }
+                                  ],
+                                  "name": "Actinomyces ",
+                                  "id": "1654"
+                                },
+                                {
+                                  "value": 5.08E-5,
+                                  "name": "Arcanobacterium ",
+                                  "id": "28263"
+                                }
+                              ],
+                              "name": "Actinomycetaceae ",
+                              "id": "2049"
+                            }
+                          ],
+                          "name": "Actinomycineae ",
+                          "id": "85005"
+                        },
+                        {
+                          "value": 7.79052E-4,
+                          "children": [
+                            {
+                              "value": 7.2178E-4,
+                              "children": [
+                                {
+                                  "value": 3.37441E-4,
+                                  "children": [
+                                    {
+                                      "value": 1.83717E-4,
+                                      "name": "Modestobacter multiseptatus ",
+                                      "id": "88139"
+                                    }
+                                  ],
+                                  "name": "Modestobacter ",
+                                  "id": "88138"
+                                },
+                                {
+                                  "value": 3.86E-5,
+                                  "children": [
+                                    {
+                                      "value": 1.08E-6,
+                                      "children": [
+                                        {
+                                          "value": 1.08E-6,
+                                          "name": "uncultured Blastococcus sp. ",
+                                          "id": "217144"
+                                        }
+                                      ],
+                                      "name": "environmental samples ",
+                                      "id": "231479"
+                                    }
+                                  ],
+                                  "name": "Blastococcus ",
+                                  "id": "38501"
+                                },
+                                {
+                                  "value": 4.23E-6,
+                                  "children": [
+                                    {
+                                      "value": 1.77E-6,
+                                      "children": [
+                                        {
+                                          "value": 1.77E-6,
+                                          "name": "uncultured Geodermatophilus sp. ",
+                                          "id": "332038"
+                                        }
+                                      ],
+                                      "name": "environmental samples ",
+                                      "id": "332037"
+                                    }
+                                  ],
+                                  "name": "Geodermatophilus ",
+                                  "id": "1860"
+                                }
+                              ],
+                              "name": "Geodermatophilaceae ",
+                              "id": "85030"
+                            },
+                            {
+                              "value": 2.76E-6,
+                              "children": [
+                                {
+                                  "value": 2.76E-6,
+                                  "name": "Frankia ",
+                                  "id": "1854"
+                                }
+                              ],
+                              "name": "Frankiaceae ",
+                              "id": "74712"
+                            }
+                          ],
+                          "name": "Frankineae ",
+                          "id": "85013"
+                        },
+                        {
+                          "value": 3.52709E-4,
+                          "children": [
+                            {
+                              "value": 3.52709E-4,
+                              "children": [
+                                {
+                                  "value": 1.51719E-4,
+                                  "name": "Saccharopolyspora ",
+                                  "id": "1835"
+                                },
+                                {
+                                  "value": 9.55E-5,
+                                  "name": "Pseudonocardia ",
+                                  "id": "1847"
+                                }
+                              ],
+                              "name": "Pseudonocardiaceae ",
+                              "id": "2070"
+                            }
+                          ],
+                          "name": "Pseudonocardineae ",
+                          "id": "85010"
+                        },
+                        {
+                          "value": 8.51E-5,
+                          "children": [
+                            {
+                              "value": 8.09E-5,
+                              "name": "uncultured Actinomycetales bacterium ",
+                              "id": "239730"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "56769"
+                        },
+                        {
+                          "value": 6.27E-5,
+                          "children": [
+                            {
+                              "value": 6.04E-5,
+                              "children": [
+                                {
+                                  "value": 5.3E-5,
+                                  "name": "Streptomyces ",
+                                  "id": "1883"
+                                },
+                                {
+                                  "value": 8.59E-7,
+                                  "children": [
+                                    {
+                                      "value": 8.59E-7,
+                                      "name": "Streptomycetaceae bacterium C2 ",
+                                      "id": "1109000"
+                                    }
+                                  ],
+                                  "name": "unclassified Streptomycetaceae ",
+                                  "id": "234292"
+                                }
+                              ],
+                              "name": "Streptomycetaceae ",
+                              "id": "2062"
+                            }
+                          ],
+                          "name": "Streptomycineae ",
+                          "id": "85011"
+                        },
+                        {
+                          "value": 4.12E-5,
+                          "name": "Streptosporangineae ",
+                          "id": "85012"
+                        },
+                        {
+                          "value": 1.68E-5,
+                          "children": [
+                            {
+                              "value": 1.68E-5,
+                              "name": "Micromonosporaceae ",
+                              "id": "28056"
+                            }
+                          ],
+                          "name": "Micromonosporineae ",
+                          "id": "85008"
+                        },
+                        {
+                          "value": 1.56E-5,
+                          "children": [
+                            {
+                              "value": 1.56E-5,
+                              "name": "Kineosporiaceae ",
+                              "id": "83778"
+                            }
+                          ],
+                          "name": "Kineosporiineae ",
+                          "id": "622452"
+                        }
+                      ],
+                      "name": "Actinomycetales ",
+                      "id": "2037"
+                    },
+                    {
+                      "value": 0.001089585,
+                      "children": [
+                        {
+                          "value": 0.001083255,
+                          "children": [
+                            {
+                              "value": 6.83252E-4,
+                              "children": [
+                                {
+                                  "value": 3.49E-6,
+                                  "children": [
+                                    {
+                                      "value": 3.49E-6,
+                                      "name": "uncultured Bifidobacterium sp. ",
+                                      "id": "165187"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "135024"
+                                }
+                              ],
+                              "name": "Bifidobacterium ",
+                              "id": "1678"
+                            },
+                            {
+                              "value": 2.78406E-4,
+                              "name": "Gardnerella ",
+                              "id": "2701"
+                            }
+                          ],
+                          "name": "Bifidobacteriaceae ",
+                          "id": "31953"
+                        }
+                      ],
+                      "name": "Bifidobacteriales ",
+                      "id": "85004"
+                    }
+                  ],
+                  "name": "Actinobacteridae ",
+                  "id": "85003"
+                },
+                {
+                  "value": 0.001734101,
+                  "children": [
+                    {
+                      "value": 0.001693317,
+                      "name": "uncultured actinobacterium ",
+                      "id": "152507"
+                    }
+                  ],
+                  "name": "environmental samples ",
+                  "id": "35766"
+                },
+                {
+                  "value": 3.61217E-4,
+                  "children": [
+                    {
+                      "value": 3.61217E-4,
+                      "children": [
+                        {
+                          "value": 3.36477E-4,
+                          "children": [
+                            {
+                              "value": 3.36477E-4,
+                              "name": "Coriobacteriaceae ",
+                              "id": "84107"
+                            }
+                          ],
+                          "name": "Coriobacterineae ",
+                          "id": "255727"
+                        }
+                      ],
+                      "name": "Coriobacteriales ",
+                      "id": "84999"
+                    }
+                  ],
+                  "name": "Coriobacteridae ",
+                  "id": "84998"
+                },
+                {
+                  "value": 4.15E-5,
+                  "children": [
+                    {
+                      "value": 2.17E-5,
+                      "name": "Solirubrobacterales ",
+                      "id": "588673"
+                    }
+                  ],
+                  "name": "Rubrobacteridae ",
+                  "id": "84995"
+                },
+                {
+                  "value": 5.84E-6,
+                  "children": [
+                    {
+                      "value": 5.48E-6,
+                      "name": "unclassified Actinobacteria (miscellaneous) ",
+                      "id": "78537"
+                    }
+                  ],
+                  "name": "unclassified Actinobacteria ",
+                  "id": "52018"
+                }
+              ],
+              "name": "Actinobacteria ",
+              "id": "1760"
+            }
+          ],
+          "name": "Actinobacteria ",
+          "id": "201174"
+        },
+        {
+          "value": 0.031525245,
+          "children": [
+            {
+              "value": 0.031069165,
+              "children": [
+                {
+                  "value": 0.005026576,
+                  "children": [
+                    {
+                      "value": 0.004594074,
+                      "children": [
+                        {
+                          "value": 0.00427486,
+                          "children": [
+                            {
+                              "value": 9.79253E-4,
+                              "children": [
+                                {
+                                  "value": 7.88E-6,
+                                  "children": [
+                                    {
+                                      "value": 1.61E-6,
+                                      "name": "uncultured Capnocytophaga sp. ",
+                                      "id": "159273"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "134213"
+                                }
+                              ],
+                              "name": "Capnocytophaga ",
+                              "id": "1016"
+                            },
+                            {
+                              "value": 9.76766E-4,
+                              "children": [
+                                {
+                                  "value": 7.0E-5,
+                                  "children": [
+                                    {
+                                      "value": 7.0E-5,
+                                      "name": "uncultured Chryseobacterium sp. ",
+                                      "id": "259322"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "259321"
+                                }
+                              ],
+                              "name": "Chryseobacterium ",
+                              "id": "59732"
+                            },
+                            {
+                              "value": 2.24068E-4,
+                              "children": [
+                                {
+                                  "value": 1.2E-5,
+                                  "children": [
+                                    {
+                                      "value": 4.83E-6,
+                                      "name": "uncultured Flavobacterium sp. ",
+                                      "id": "165435"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "89279"
+                                }
+                              ],
+                              "name": "Flavobacterium ",
+                              "id": "237"
+                            },
+                            {
+                              "value": 3.61E-5,
+                              "children": [
+                                {
+                                  "value": 3.61E-5,
+                                  "name": "uncultured Flavobacteriaceae bacterium ",
+                                  "id": "165436"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "117745"
+                            },
+                            {
+                              "value": 1.2E-5,
+                              "name": "Riemerella ",
+                              "id": "34084"
+                            },
+                            {
+                              "value": 2.1E-6,
+                              "name": "Wautersiella ",
+                              "id": "343873"
+                            },
+                            {
+                              "value": 8.26E-7,
+                              "name": "unclassified Flavobacteriaceae ",
+                              "id": "61432"
+                            }
+                          ],
+                          "name": "Flavobacteriaceae ",
+                          "id": "49546"
+                        }
+                      ],
+                      "name": "Flavobacteriales ",
+                      "id": "200644"
+                    }
+                  ],
+                  "name": "Flavobacteriia ",
+                  "id": "117743"
+                },
+                {
+                  "value": 0.00381907,
+                  "children": [
+                    {
+                      "value": 0.003818309,
+                      "children": [
+                        {
+                          "value": 0.001408066,
+                          "children": [
+                            {
+                              "value": 0.00104276,
+                              "children": [
+                                {
+                                  "value": 6.29E-6,
+                                  "children": [
+                                    {
+                                      "value": 2.85E-6,
+                                      "name": "uncultured Prevotella sp. ",
+                                      "id": "159272"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "84374"
+                                }
+                              ],
+                              "name": "Prevotella ",
+                              "id": "838"
+                            }
+                          ],
+                          "name": "Prevotellaceae ",
+                          "id": "171552"
+                        },
+                        {
+                          "value": 6.53475E-4,
+                          "children": [
+                            {
+                              "value": 4.75102E-4,
+                              "children": [
+                                {
+                                  "value": 9.23E-5,
+                                  "children": [
+                                    {
+                                      "value": 3.77E-5,
+                                      "name": "uncultured Bacteroides sp. ",
+                                      "id": "162156"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "139043"
+                                },
+                                {
+                                  "value": 1.96E-6,
+                                  "name": "Bacteroides thetaiotaomicron ",
+                                  "id": "818"
+                                }
+                              ],
+                              "name": "Bacteroides ",
+                              "id": "816"
+                            }
+                          ],
+                          "name": "Bacteroidaceae ",
+                          "id": "815"
+                        },
+                        {
+                          "value": 5.57747E-4,
+                          "children": [
+                            {
+                              "value": 3.04129E-4,
+                              "name": "Porphyromonas ",
+                              "id": "836"
+                            }
+                          ],
+                          "name": "Porphyromonadaceae ",
+                          "id": "171551"
+                        },
+                        {
+                          "value": 5.13E-5,
+                          "children": [
+                            {
+                              "value": 5.13E-5,
+                              "name": "uncultured Bacteroidales bacterium ",
+                              "id": "194843"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "189693"
+                        }
+                      ],
+                      "name": "Bacteroidales ",
+                      "id": "171549"
+                    }
+                  ],
+                  "name": "Bacteroidia ",
+                  "id": "200643"
+                },
+                {
+                  "value": 0.001189736,
+                  "children": [
+                    {
+                      "value": 0.001189736,
+                      "children": [
+                        {
+                          "value": 0.001136531,
+                          "children": [
+                            {
+                              "value": 2.65673E-4,
+                              "children": [
+                                {
+                                  "value": 2.5979E-4,
+                                  "name": "uncultured Flexibacteraceae bacterium ",
+                                  "id": "239735"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "95759"
+                            },
+                            {
+                              "value": 1.80388E-4,
+                              "children": [
+                                {
+                                  "value": 1.64E-5,
+                                  "children": [
+                                    {
+                                      "value": 1.64E-5,
+                                      "name": "uncultured Hymenobacter sp. ",
+                                      "id": "170016"
+                                    }
+                                  ],
+                                  "name": "environmental samples ",
+                                  "id": "170015"
+                                }
+                              ],
+                              "name": "Hymenobacter ",
+                              "id": "89966"
+                            },
+                            {
+                              "value": 8.64E-5,
+                              "name": "Spirosoma ",
+                              "id": "107"
+                            },
+                            {
+                              "value": 5.42E-5,
+                              "name": "Dyadobacter ",
+                              "id": "120831"
+                            },
+                            {
+                              "value": 4.25E-5,
+                              "name": "Pontibacter ",
+                              "id": "323449"
+                            },
+                            {
+                              "value": 3.87E-6,
+                              "name": "unclassified Cytophagaceae ",
+                              "id": "94253"
+                            }
+                          ],
+                          "name": "Cytophagaceae ",
+                          "id": "89373"
+                        }
+                      ],
+                      "name": "Cytophagales ",
+                      "id": "768507"
+                    }
+                  ],
+                  "name": "Cytophagia ",
+                  "id": "768503"
+                },
+                {
+                  "value": 8.06511E-4,
+                  "children": [
+                    {
+                      "value": 7.97734E-4,
+                      "name": "uncultured Bacteroidetes bacterium ",
+                      "id": "152509"
+                    }
+                  ],
+                  "name": "environmental samples ",
+                  "id": "50742"
+                },
+                {
+                  "value": 6.0453E-4,
+                  "children": [
+                    {
+                      "value": 5.85622E-4,
+                      "children": [
+                        {
+                          "value": 5.44997E-4,
+                          "children": [
+                            {
+                              "value": 3.11059E-4,
+                              "name": "Sphingobacterium ",
+                              "id": "28453"
+                            },
+                            {
+                              "value": 6.14E-5,
+                              "name": "Pedobacter ",
+                              "id": "84567"
+                            }
+                          ],
+                          "name": "Sphingobacteriaceae ",
+                          "id": "84566"
+                        },
+                        {
+                          "value": 1.34E-5,
+                          "name": "Chitinophagaceae ",
+                          "id": "563835"
+                        },
+                        {
+                          "value": 5.46E-6,
+                          "children": [
+                            {
+                              "value": 4.25E-6,
+                              "name": "uncultured Sphingobacteriales bacterium ",
+                              "id": "212696"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "117769"
+                        }
+                      ],
+                      "name": "Sphingobacteriales ",
+                      "id": "200666"
+                    }
+                  ],
+                  "name": "Sphingobacteriia ",
+                  "id": "117747"
+                }
+              ],
+              "name": "Bacteroidetes ",
+              "id": "976"
+            },
+            {
+              "value": 2.71E-7,
+              "children": [
+                {
+                  "value": 2.71E-7,
+                  "name": "uncultured Bacteroidetes/Chlorobi group bacterium ",
+                  "id": "169977"
+                }
+              ],
+              "name": "environmental samples ",
+              "id": "68346"
+            }
+          ],
+          "name": "Bacteroidetes/Chlorobi group ",
+          "id": "68336"
+        },
+        {
+          "value": 0.017797337,
+          "children": [
+            {
+              "value": 0.006079653,
+              "children": [
+                {
+                  "value": 0.005467232,
+                  "name": "uncultured cyanobacterium ",
+                  "id": "1211"
+                }
+              ],
+              "name": "environmental samples ",
+              "id": "48504"
+            },
+            {
+              "value": 3.086E-4,
+              "children": [
+                {
+                  "value": 2.14694E-4,
+                  "children": [
+                    {
+                      "value": 6.78E-5,
+                      "name": "Anabaena ",
+                      "id": "1163"
+                    }
+                  ],
+                  "name": "Nostocaceae ",
+                  "id": "1162"
+                },
+                {
+                  "value": 2.69E-6,
+                  "children": [
+                    {
+                      "value": 2.69E-6,
+                      "name": "uncultured Nostocales cyanobacterium ",
+                      "id": "183213"
+                    }
+                  ],
+                  "name": "environmental samples ",
+                  "id": "183212"
+                }
+              ],
+              "name": "Nostocales ",
+              "id": "1161"
+            },
+            {
+              "value": 2.71812E-4,
+              "children": [
+                {
+                  "value": 2.6951E-4,
+                  "name": "Chroococcidiopsis ",
+                  "id": "54298"
+                }
+              ],
+              "name": "Pleurocapsales ",
+              "id": "52604"
+            },
+            {
+              "value": 2.3429E-4,
+              "children": [
+                {
+                  "value": 1.51657E-4,
+                  "children": [
+                    {
+                      "value": 2.68E-5,
+                      "children": [
+                        {
+                          "value": 2.68E-5,
+                          "name": "uncultured Oscillatoriales cyanobacterium ",
+                          "id": "156210"
+                        }
+                      ],
+                      "name": "environmental samples ",
+                      "id": "156209"
+                    },
+                    {
+                      "value": 1.52E-5,
+                      "name": "Leptolyngbya ",
+                      "id": "47251"
+                    },
+                    {
+                      "value": 1.12E-5,
+                      "name": "Phormidium ",
+                      "id": "1198"
+                    }
+                  ],
+                  "name": "Oscillatoriales ",
+                  "id": "1150"
+                },
+                {
+                  "value": 4.15E-5,
+                  "children": [
+                    {
+                      "value": 1.58E-5,
+                      "children": [
+                        {
+                          "value": 1.58E-5,
+                          "children": [
+                            {
+                              "value": 1.58E-5,
+                              "name": "uncultured Cyanothece sp. ",
+                              "id": "259951"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "259950"
+                        }
+                      ],
+                      "name": "Cyanothece ",
+                      "id": "43988"
+                    },
+                    {
+                      "value": 1.12E-5,
+                      "children": [
+                        {
+                          "value": 3.24E-6,
+                          "children": [
+                            {
+                              "value": 3.24E-6,
+                              "name": "uncultured Synechococcus sp. ",
+                              "id": "154535"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "127785"
+                        }
+                      ],
+                      "name": "Synechococcus ",
+                      "id": "1129"
+                    }
+                  ],
+                  "name": "Chroococcales ",
+                  "id": "1118"
+                }
+              ],
+              "name": "Oscillatoriophycideae ",
+              "id": "1301283"
+            },
+            {
+              "value": 6.67E-6,
+              "name": "unclassified Cyanobacteria ",
+              "id": "34079"
+            }
+          ],
+          "name": "Cyanobacteria ",
+          "id": "1117"
+        },
+        {
+          "value": 0.004422915,
+          "children": [
+            {
+              "value": 0.004253713,
+              "children": [
+                {
+                  "value": 0.00278161,
+                  "children": [
+                    {
+                      "value": 9.22865E-4,
+                      "children": [
+                        {
+                          "value": 7.59295E-4,
+                          "children": [
+                            {
+                              "value": 2.07E-5,
+                              "children": [
+                                {
+                                  "value": 2.07E-5,
+                                  "name": "uncultured Deinococcus sp. ",
+                                  "id": "158789"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "158788"
+                            }
+                          ],
+                          "name": "Deinococcus ",
+                          "id": "1298"
+                        }
+                      ],
+                      "name": "Deinococcaceae ",
+                      "id": "183710"
+                    },
+                    {
+                      "value": 7.51821E-4,
+                      "children": [
+                        {
+                          "value": 7.51821E-4,
+                          "name": "uncultured Deinococcales bacterium ",
+                          "id": "310703"
+                        }
+                      ],
+                      "name": "environmental samples ",
+                      "id": "310702"
+                    }
+                  ],
+                  "name": "Deinococcales ",
+                  "id": "118964"
+                },
+                {
+                  "value": 2.59628E-4,
+                  "children": [
+                    {
+                      "value": 2.37148E-4,
+                      "children": [
+                        {
+                          "value": 2.14041E-4,
+                          "children": [
+                            {
+                              "value": 1.25923E-4,
+                              "name": "Thermus thermophilus ",
+                              "id": "274"
+                            }
+                          ],
+                          "name": "Thermus ",
+                          "id": "270"
+                        }
+                      ],
+                      "name": "Thermaceae ",
+                      "id": "188786"
+                    }
+                  ],
+                  "name": "Thermales ",
+                  "id": "68933"
+                }
+              ],
+              "name": "Deinococci ",
+              "id": "188787"
+            }
+          ],
+          "name": "Deinococcus-Thermus",
+          "id": "1297"
+        },
+        {
+          "value": 0.003764068,
+          "children": [
+            {
+              "value": 0.001258973,
+              "children": [
+                {
+                  "value": 0.001258973,
+                  "children": [
+                    {
+                      "value": 7.0059E-4,
+                      "children": [
+                        {
+                          "value": 6.75406E-4,
+                          "children": [
+                            {
+                              "value": 2.48105E-4,
+                              "name": "Leptotrichia wadei ",
+                              "id": "157687"
+                            },
+                            {
+                              "value": 1.13449E-4,
+                              "name": "Leptotrichia sp. oral taxon 498 ",
+                              "id": "712368"
+                            },
+                            {
+                              "value": 3.04E-6,
+                              "children": [
+                                {
+                                  "value": 2.88E-7,
+                                  "name": "uncultured Leptotrichia sp. ",
+                                  "id": "159271"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "135058"
+                            }
+                          ],
+                          "name": "Leptotrichia ",
+                          "id": "32067"
+                        }
+                      ],
+                      "name": "Leptotrichiaceae ",
+                      "id": "1129771"
+                    },
+                    {
+                      "value": 2.82189E-4,
+                      "children": [
+                        {
+                          "value": 2.28937E-4,
+                          "name": "Fusobacterium ",
+                          "id": "848"
+                        }
+                      ],
+                      "name": "Fusobacteriaceae ",
+                      "id": "203492"
+                    }
+                  ],
+                  "name": "Fusobacteriales ",
+                  "id": "203491"
+                }
+              ],
+              "name": "Fusobacteriia ",
+              "id": "203490"
+            },
+            {
+              "value": 1.11E-5,
+              "children": [
+                {
+                  "value": 1.11E-5,
+                  "name": "uncultured Fusobacteria bacterium ",
+                  "id": "174329"
+                }
+              ],
+              "name": "environmental samples ",
+              "id": "135062"
+            }
+          ],
+          "name": "Fusobacteria ",
+          "id": "32066"
+        },
+        {
+          "value": 0.003673925,
+          "children": [
+            {
+              "value": 0.003248695,
+              "children": [
+                {
+                  "value": 0.00262026,
+                  "children": [
+                    {
+                      "value": 0.00102172,
+                      "children": [
+                        {
+                          "value": 9.09032E-4,
+                          "children": [
+                            {
+                              "value": 9.09032E-4,
+                              "name": "uncultured Planctomycetaceae bacterium ",
+                              "id": "100233"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "69409"
+                        }
+                      ],
+                      "name": "Planctomycetaceae ",
+                      "id": "126"
+                    },
+                    {
+                      "value": 4.01172E-4,
+                      "children": [
+                        {
+                          "value": 2.11261E-4,
+                          "name": "uncultured planctomycete ",
+                          "id": "120965"
+                        },
+                        {
+                          "value": 7.6E-5,
+                          "name": "uncultured Planctomycetales bacterium ",
+                          "id": "100371"
+                        }
+                      ],
+                      "name": "environmental samples ",
+                      "id": "40903"
+                    }
+                  ],
+                  "name": "Planctomycetales ",
+                  "id": "112"
+                }
+              ],
+              "name": "Planctomycetia ",
+              "id": "203683"
+            }
+          ],
+          "name": "Planctomycetes ",
+          "id": "203682"
+        },
+        {
+          "value": 0.001976315,
+          "children": [
+            {
+              "value": 4.02918E-4,
+              "children": [
+                {
+                  "value": 3.91855E-4,
+                  "name": "uncultured Chloroflexi bacterium ",
+                  "id": "166587"
+                }
+              ],
+              "name": "environmental samples ",
+              "id": "58229"
+            },
+            {
+              "value": 2.18E-5,
+              "children": [
+                {
+                  "value": 6.92E-6,
+                  "children": [
+                    {
+                      "value": 6.92E-6,
+                      "children": [
+                        {
+                          "value": 6.92E-6,
+                          "children": [
+                            {
+                              "value": 6.92E-6,
+                              "children": [
+                                {
+                                  "value": 6.92E-6,
+                                  "name": "uncultured Thermomicrobium sp. ",
+                                  "id": "158795"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "158794"
+                            }
+                          ],
+                          "name": "Thermomicrobium ",
+                          "id": "499"
+                        }
+                      ],
+                      "name": "Thermomicrobiaceae ",
+                      "id": "189777"
+                    }
+                  ],
+                  "name": "Thermomicrobiales ",
+                  "id": "189776"
+                }
+              ],
+              "name": "Thermomicrobia ",
+              "id": "189775"
+            }
+          ],
+          "name": "Chloroflexi ",
+          "id": "200795"
+        },
+        {
+          "value": 8.54369E-4,
+          "children": [
+            {
+              "value": 6.81507E-4,
+              "children": [
+                {
+                  "value": 5.76E-5,
+                  "children": [
+                    {
+                      "value": 4.94E-5,
+                      "name": "uncultured Verrucomicrobia bacterium ",
+                      "id": "156588"
+                    }
+                  ],
+                  "name": "environmental samples ",
+                  "id": "74202"
+                },
+                {
+                  "value": 3.95E-5,
+                  "children": [
+                    {
+                      "value": 3.75E-5,
+                      "children": [
+                        {
+                          "value": 3.33E-5,
+                          "name": "Verrucomicrobiaceae ",
+                          "id": "203557"
+                        }
+                      ],
+                      "name": "Verrucomicrobiales ",
+                      "id": "48461"
+                    }
+                  ],
+                  "name": "Verrucomicrobiae ",
+                  "id": "203494"
+                }
+              ],
+              "name": "Verrucomicrobia ",
+              "id": "74201"
+            }
+          ],
+          "name": "Chlamydiae/Verrucomicrobia group ",
+          "id": "51290"
+        },
+        {
+          "value": 7.1938E-4,
+          "children": [
+            {
+              "value": 6.81635E-4,
+              "children": [
+                {
+                  "value": 2.78553E-4,
+                  "children": [
+                    {
+                      "value": 2.69784E-4,
+                      "name": "uncultured Acidobacteria bacterium ",
+                      "id": "171953"
+                    }
+                  ],
+                  "name": "environmental samples ",
+                  "id": "57727"
+                },
+                {
+                  "value": 4.61E-5,
+                  "children": [
+                    {
+                      "value": 4.61E-5,
+                      "children": [
+                        {
+                          "value": 4.44E-5,
+                          "children": [
+                            {
+                              "value": 4.32E-5,
+                              "children": [
+                                {
+                                  "value": 4.32E-5,
+                                  "name": "uncultured Acidobacteriaceae bacterium ",
+                                  "id": "194844"
+                                }
+                              ],
+                              "name": "environmental samples ",
+                              "id": "112075"
+                            }
+                          ],
+                          "name": "Acidobacteriaceae ",
+                          "id": "204434"
+                        },
+                        {
+                          "value": 5.41E-7,
+                          "children": [
+                            {
+                              "value": 5.41E-7,
+                              "name": "uncultured Acidobacteriales bacterium ",
+                              "id": "190530"
+                            }
+                          ],
+                          "name": "environmental samples ",
+                          "id": "124728"
+                        }
+                      ],
+                      "name": "Acidobacteriales ",
+                      "id": "204433"
+                    }
+                  ],
+                  "name": "Acidobacteriia ",
+                  "id": "204432"
+                }
+              ],
+              "name": "Acidobacteria ",
+              "id": "57723"
+            }
+          ],
+          "name": "Fibrobacteres/Acidobacteria group ",
+          "id": "131550"
+        },
+        {
+          "value": 3.18499E-4,
+          "children": [
+            {
+              "value": 1.43702E-4,
+              "children": [
+                {
+                  "value": 1.42443E-4,
+                  "name": "uncultured Gemmatimonadetes bacterium ",
+                  "id": "203437"
+                }
+              ],
+              "name": "environmental samples ",
+              "id": "142185"
+            }
+          ],
+          "name": "Gemmatimonadetes ",
+          "id": "142182"
+        },
+        {
+          "value": 6.7E-5,
+          "children": [
+            {
+              "value": 6.7E-5,
+              "children": [
+                {
+                  "value": 5.68E-5,
+                  "children": [
+                    {
+                      "value": 4.73E-5,
+                      "name": "Spirochaetaceae ",
+                      "id": "137"
+                    },
+                    {
+                      "value": 4.81E-7,
+                      "children": [
+                        {
+                          "value": 4.81E-7,
+                          "name": "uncultured spirochete ",
+                          "id": "156406"
+                        }
+                      ],
+                      "name": "environmental samples ",
+                      "id": "56766"
+                    }
+                  ],
+                  "name": "Spirochaetales ",
+                  "id": "136"
+                }
+              ],
+              "name": "Spirochaetia ",
+              "id": "203692"
+            }
+          ],
+          "name": "Spirochaetes ",
+          "id": "203691"
+        },
+        {
+          "value": 2.94E-5,
+          "children": [
+            {
+              "value": 2.86E-5,
+              "children": [
+                {
+                  "value": 2.8E-5,
+                  "name": "uncultured Armatimonadetes bacterium ",
+                  "id": "157466"
+                }
+              ],
+              "name": "environmental samples ",
+              "id": "99283"
+            }
+          ],
+          "name": "Armatimonadetes ",
+          "id": "67819"
+        },
+        {
+          "value": 2.06E-5,
+          "children": [
+            {
+              "value": 2.06E-5,
+              "children": [
+                {
+                  "value": 4.67E-6,
+                  "children": [
+                    {
+                      "value": 4.67E-6,
+                      "name": "uncultured Mollicutes bacterium ",
+                      "id": "220137"
+                    }
+                  ],
+                  "name": "environmental samples ",
+                  "id": "220136"
+                }
+              ],
+              "name": "Mollicutes ",
+              "id": "31969"
+            }
+          ],
+          "name": "Tenericutes ",
+          "id": "544448"
+        },
+        {
+          "value": 9.4E-6,
+          "children": [
+            {
+              "value": 5.49E-6,
+              "children": [
+                {
+                  "value": 2.34E-6,
+                  "name": "uncultured Synergistetes bacterium ",
+                  "id": "447826"
+                }
+              ],
+              "name": "environmental samples ",
+              "id": "447825"
+            }
+          ],
+          "name": "Synergistetes ",
+          "id": "508458"
+        },
+        {
+          "value": 6.58E-6,
+          "name": "Nitrospirae ",
+          "id": "40117"
+        }
+      ],
+      "name": "Bacteria",
+      "id": "2"
+    }
+  ],
+  "name": "Root",
+  "id": "0"
+}
