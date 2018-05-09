@@ -1,0 +1,4122 @@
+[
+  {
+    "key": "Odonata",
+    "values": [
+      {
+        "key": "Aeshnidae",
+        "values": [
+          {
+            "key": "Aeshna cyanea",
+            "values": [
+              {
+                "key": "Aeshna cyanea",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "1",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Odonata",
+                    "Family": "Aeshnidae",
+                    "Genus": "Aeshna cyanea",
+                    "Species": "Aeshna cyanea"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Calopterygidae",
+        "values": [
+          {
+            "key": "Calopteryx virgo",
+            "values": [
+              {
+                "key": "Calopteryx japonica",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "47",
+                    "Sa04_184_BF11_BR20": "7",
+                    "Sa04_214_BR24_BF13": "10",
+                    "Sa05_5_BF11_BR11": "1",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "4",
+                    "Sa05_95_BR22_BF21": "29",
+                    "Sa05_125_BF2B_BR10": "3",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Odonata",
+                    "Family": "Calopterygidae",
+                    "Genus": "Calopteryx virgo",
+                    "Species": "Calopteryx japonica"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "49",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "2",
+                    "Sa05_125_BF2B_BR10": "3",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Odonata",
+                    "Family": "Calopterygidae",
+                    "Genus": "Calopteryx virgo",
+                    "Species": "Calopteryx japonica"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "51",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Odonata",
+                    "Family": "Calopterygidae",
+                    "Genus": "Calopteryx virgo",
+                    "Species": "Calopteryx japonica"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "52",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "3",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Odonata",
+                    "Family": "Calopterygidae",
+                    "Genus": "Calopteryx virgo",
+                    "Species": "Calopteryx japonica"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "53",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "2",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "7",
+                    "Sa05_125_BF2B_BR10": "38",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Odonata",
+                    "Family": "Calopterygidae",
+                    "Genus": "Calopteryx virgo",
+                    "Species": "Calopteryx japonica"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "54",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Odonata",
+                    "Family": "Calopterygidae",
+                    "Genus": "Calopteryx virgo",
+                    "Species": "Calopteryx japonica"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "55",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "2",
+                    "Sa05_125_BF2B_BR10": "5",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Odonata",
+                    "Family": "Calopterygidae",
+                    "Genus": "Calopteryx virgo",
+                    "Species": "Calopteryx japonica"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "Trichoptera",
+    "values": [
+      {
+        "key": "Glossosomatidae",
+        "values": [
+          {
+            "key": "Agapetus ochripes",
+            "values": [
+              {
+                "key": "Agapetus ochripes",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "2",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "53",
+                    "Sa05_35_BR13_BF13": "58",
+                    "Sa05_65_BF2B_BR2B": "466",
+                    "Sa05_95_BR22_BF21": "612",
+                    "Sa05_125_BF2B_BR10": "1350",
+                    "Sa05_155_BR13_BF21": "531",
+                    "Order": "Trichoptera",
+                    "Family": "Glossosomatidae",
+                    "Genus": "Agapetus ochripes",
+                    "Species": "Agapetus ochripes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Apataniidae",
+        "values": [
+          {
+            "key": "Apatania wallengreni",
+            "values": [
+              {
+                "key": "Apatania crymophila",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "5",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "1",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "23",
+                    "Order": "Trichoptera",
+                    "Family": "Apataniidae",
+                    "Genus": "Apatania wallengreni",
+                    "Species": "Apatania crymophila"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Hydropsychidae",
+        "values": [
+          {
+            "key": "Arctopsyche ladogensis",
+            "values": [
+              {
+                "key": "Arctopsyche ladogensis",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "7",
+                    "Sa04_184_BF11_BR20": "1",
+                    "Sa04_214_BR24_BF13": "26",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "343",
+                    "Order": "Trichoptera",
+                    "Family": "Hydropsychidae",
+                    "Genus": "Arctopsyche ladogensis",
+                    "Species": "Arctopsyche ladogensis"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Cheumatopsyche lepida",
+            "values": [
+              {
+                "key": "Cheumatopsyche lepida",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "66",
+                    "Sa04_184_BF11_BR20": "4",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "759",
+                    "Sa05_35_BR13_BF13": "1879",
+                    "Sa05_65_BF2B_BR2B": "1970",
+                    "Sa05_95_BR22_BF21": "1012",
+                    "Sa05_125_BF2B_BR10": "157",
+                    "Sa05_155_BR13_BF21": "1208",
+                    "Order": "Trichoptera",
+                    "Family": "Hydropsychidae",
+                    "Genus": "Cheumatopsyche lepida",
+                    "Species": "Cheumatopsyche lepida"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "67",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "11",
+                    "Sa05_35_BR13_BF13": "37",
+                    "Sa05_65_BF2B_BR2B": "921",
+                    "Sa05_95_BR22_BF21": "521",
+                    "Sa05_125_BF2B_BR10": "79",
+                    "Sa05_155_BR13_BF21": "628",
+                    "Order": "Trichoptera",
+                    "Family": "Hydropsychidae",
+                    "Genus": "Cheumatopsyche lepida",
+                    "Species": "Cheumatopsyche lepida"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Leptoceridae",
+        "values": [
+          {
+            "key": "Athripsodes cinereus",
+            "values": [
+              {
+                "key": "Athripsodes cinereus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "15",
+                    "Sa04_184_BF11_BR20": "6",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "2",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "22",
+                    "Sa05_95_BR22_BF21": "15",
+                    "Sa05_125_BF2B_BR10": "19",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Trichoptera",
+                    "Family": "Leptoceridae",
+                    "Genus": "Athripsodes cinereus",
+                    "Species": "Athripsodes cinereus"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "16",
+                    "Sa04_184_BF11_BR20": "39",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "2",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "4",
+                    "Sa05_125_BF2B_BR10": "2",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Trichoptera",
+                    "Family": "Leptoceridae",
+                    "Genus": "Athripsodes cinereus",
+                    "Species": "Athripsodes cinereus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Athripsodes commutatus",
+            "values": [
+              {
+                "key": "Athripsodes commutatus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "17",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "9",
+                    "Order": "Trichoptera",
+                    "Family": "Leptoceridae",
+                    "Genus": "Athripsodes commutatus",
+                    "Species": "Athripsodes commutatus"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "18",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Trichoptera",
+                    "Family": "Leptoceridae",
+                    "Genus": "Athripsodes commutatus",
+                    "Species": "Athripsodes commutatus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Ceraclea annulicornis",
+            "values": [
+              {
+                "key": "Ceraclea annulicornis",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "57",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "15",
+                    "Sa05_125_BF2B_BR10": "22",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Trichoptera",
+                    "Family": "Leptoceridae",
+                    "Genus": "Ceraclea annulicornis",
+                    "Species": "Ceraclea annulicornis"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Ceraclea excisa",
+            "values": [
+              {
+                "key": "Ceraclea excisa",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "58",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "2",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "2",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Trichoptera",
+                    "Family": "Leptoceridae",
+                    "Genus": "Ceraclea excisa",
+                    "Species": "Ceraclea excisa"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Ceraclea nigronervosa",
+            "values": [
+              {
+                "key": "Ceraclea nigronervosa",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "59",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Trichoptera",
+                    "Family": "Leptoceridae",
+                    "Genus": "Ceraclea nigronervosa",
+                    "Species": "Ceraclea nigronervosa"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Ceraclea dissimilis",
+            "values": [
+              {
+                "key": "Ceraclea dissimilis",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "60",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Trichoptera",
+                    "Family": "Leptoceridae",
+                    "Genus": "Ceraclea dissimilis",
+                    "Species": "Ceraclea dissimilis"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Brachycentridae",
+        "values": [
+          {
+            "key": "Brachycentrus subnubilus",
+            "values": [
+              {
+                "key": "Brachycentrus subnubilus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "35",
+                    "Sa04_184_BF11_BR20": "1",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "1",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Trichoptera",
+                    "Family": "Brachycentridae",
+                    "Genus": "Brachycentrus subnubilus",
+                    "Species": "Brachycentrus subnubilus"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "Plecoptera",
+    "values": [
+      {
+        "key": "Nemouridae",
+        "values": [
+          {
+            "key": "Amphinemura borealis",
+            "values": [
+              {
+                "key": "Amphinemura borealis",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "3",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Plecoptera",
+                    "Family": "Nemouridae",
+                    "Genus": "Amphinemura borealis",
+                    "Species": "Amphinemura borealis"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "Pulmonata",
+    "values": [
+      {
+        "key": "Ancylidae",
+        "values": [
+          {
+            "key": "Ancylus fluviatilis",
+            "values": [
+              {
+                "key": "Ancylus fluviatilis",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "4",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "11655",
+                    "Sa05_35_BR13_BF13": "6257",
+                    "Sa05_65_BF2B_BR2B": "15",
+                    "Sa05_95_BR22_BF21": "7",
+                    "Sa05_125_BF2B_BR10": "32",
+                    "Sa05_155_BR13_BF21": "19",
+                    "Order": "Pulmonata",
+                    "Family": "Ancylidae",
+                    "Genus": "Ancylus fluviatilis",
+                    "Species": "Ancylus fluviatilis"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "Hemiptera",
+    "values": [
+      {
+        "key": "Aphelocheiridae",
+        "values": [
+          {
+            "key": "Aphelocheirus aestivalis",
+            "values": [
+              {
+                "key": "Aphelocheirus ellipsoideus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "6",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Hemiptera",
+                    "Family": "Aphelocheiridae",
+                    "Genus": "Aphelocheirus aestivalis",
+                    "Species": "Aphelocheirus ellipsoideus"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Corixidae",
+        "values": [
+          {
+            "key": "Callicorixa praeusta",
+            "values": [
+              {
+                "key": "Callicorixa audeni",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "39",
+                    "Sa04_184_BF11_BR20": "7",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "1",
+                    "Sa05_155_BR13_BF21": "1",
+                    "Order": "Hemiptera",
+                    "Family": "Corixidae",
+                    "Genus": "Callicorixa praeusta",
+                    "Species": "Callicorixa audeni"
+                  }
+                ]
+              },
+              {
+                "key": "Callicorixa producta",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "45",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Hemiptera",
+                    "Family": "Corixidae",
+                    "Genus": "Callicorixa praeusta",
+                    "Species": "Callicorixa producta"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Callicorixa alaskensis",
+            "values": [
+              {
+                "key": "Callicorixa producta",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "40",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "1",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Hemiptera",
+                    "Family": "Corixidae",
+                    "Genus": "Callicorixa alaskensis",
+                    "Species": "Callicorixa producta"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Callicorixa wollastoni",
+            "values": [
+              {
+                "key": "Callicorixa producta",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "42",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Hemiptera",
+                    "Family": "Corixidae",
+                    "Genus": "Callicorixa wollastoni",
+                    "Species": "Callicorixa producta"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "46",
+                    "Sa04_184_BF11_BR20": "6",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "1",
+                    "Sa05_155_BR13_BF21": "1",
+                    "Order": "Hemiptera",
+                    "Family": "Corixidae",
+                    "Genus": "Callicorixa wollastoni",
+                    "Species": "Callicorixa producta"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "Isopoda",
+    "values": [
+      {
+        "key": "Asellidae",
+        "values": [
+          {
+            "key": "Asellus aquaticus",
+            "values": [
+              {
+                "key": "Asellus aquaticus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "8",
+                    "Sa04_184_BF11_BR20": "355509",
+                    "Sa04_214_BR24_BF13": "410194",
+                    "Sa05_5_BF11_BR11": "1677",
+                    "Sa05_35_BR13_BF13": "4268",
+                    "Sa05_65_BF2B_BR2B": "545",
+                    "Sa05_95_BR22_BF21": "1003",
+                    "Sa05_125_BF2B_BR10": "948",
+                    "Sa05_155_BR13_BF21": "3149",
+                    "Order": "Isopoda",
+                    "Family": "Asellidae",
+                    "Genus": "Asellus aquaticus",
+                    "Species": "Asellus aquaticus"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "9",
+                    "Sa04_184_BF11_BR20": "57",
+                    "Sa04_214_BR24_BF13": "12",
+                    "Sa05_5_BF11_BR11": "17",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "2",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Isopoda",
+                    "Family": "Asellidae",
+                    "Genus": "Asellus aquaticus",
+                    "Species": "Asellus aquaticus"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "10",
+                    "Sa04_184_BF11_BR20": "18",
+                    "Sa04_214_BR24_BF13": "20",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "5",
+                    "Sa05_95_BR22_BF21": "6",
+                    "Sa05_125_BF2B_BR10": "30",
+                    "Sa05_155_BR13_BF21": "89",
+                    "Order": "Isopoda",
+                    "Family": "Asellidae",
+                    "Genus": "Asellus aquaticus",
+                    "Species": "Asellus aquaticus"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "12",
+                    "Sa04_184_BF11_BR20": "1",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Isopoda",
+                    "Family": "Asellidae",
+                    "Genus": "Asellus aquaticus",
+                    "Species": "Asellus aquaticus"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "13",
+                    "Sa04_184_BF11_BR20": "9",
+                    "Sa04_214_BR24_BF13": "3",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "1",
+                    "Sa05_95_BR22_BF21": "6",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Isopoda",
+                    "Family": "Asellidae",
+                    "Genus": "Asellus aquaticus",
+                    "Species": "Asellus aquaticus"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "14",
+                    "Sa04_184_BF11_BR20": "755",
+                    "Sa04_214_BR24_BF13": "852",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "2",
+                    "Sa05_95_BR22_BF21": "1",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Isopoda",
+                    "Family": "Asellidae",
+                    "Genus": "Asellus aquaticus",
+                    "Species": "Asellus aquaticus"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "NA",
+    "values": [
+      {
+        "key": "NA",
+        "values": [
+          {
+            "key": "NA",
+            "values": [
+              {
+                "key": "Asellus aquaticus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "11",
+                    "Sa04_184_BF11_BR20": "2",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "30",
+                    "Sa05_35_BR13_BF13": "868",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "5",
+                    "Sa05_125_BF2B_BR10": "4",
+                    "Sa05_155_BR13_BF21": "18",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Asellus aquaticus"
+                  }
+                ]
+              },
+              {
+                "key": "Baetis vernus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "23",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Baetis vernus"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "25",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Baetis vernus"
+                  }
+                ]
+              },
+              {
+                "key": "Nigrobaetis niger",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "27",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Nigrobaetis niger"
+                  }
+                ]
+              },
+              {
+                "key": "Callicorixa producta",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "41",
+                    "Sa04_184_BF11_BR20": "1",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Callicorixa producta"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "44",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Callicorixa producta"
+                  }
+                ]
+              },
+              {
+                "key": "Callicorixa audeni",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "43",
+                    "Sa04_184_BF11_BR20": "1",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Callicorixa audeni"
+                  }
+                ]
+              },
+              {
+                "key": "Calopteryx japonica",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "48",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Calopteryx japonica"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "50",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "1",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "1",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Calopteryx japonica"
+                  }
+                ]
+              },
+              {
+                "key": "Ceraclea excisa",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "61",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Ceraclea excisa"
+                  }
+                ]
+              },
+              {
+                "key": "Corynoneura sp. BOLD:AAI5884",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "103",
+                    "Sa04_184_BF11_BR20": "1",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Corynoneura sp. BOLD:AAI5884"
+                  }
+                ]
+              },
+              {
+                "key": "Dicrotendipes nervosus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "137",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Dicrotendipes nervosus"
+                  }
+                ]
+              },
+              {
+                "key": "Orthocladiinae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "142",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Orthocladiinae sp. BOLD-2016"
+                  }
+                ]
+              },
+              {
+                "key": "Rheosmittia spinicornis",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "146",
+                    "Sa04_184_BF11_BR20": "35",
+                    "Sa04_214_BR24_BF13": "23",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Rheosmittia spinicornis"
+                  }
+                ]
+              },
+              {
+                "key": "Chironominae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "153",
+                    "Sa04_184_BF11_BR20": "68",
+                    "Sa04_214_BR24_BF13": "90",
+                    "Sa05_5_BF11_BR11": "1",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "1",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Chironominae sp. BOLD-2016"
+                  }
+                ]
+              },
+              {
+                "key": "Orthocladius sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "155",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "1",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Orthocladius sp. BOLD-2016"
+                  }
+                ]
+              },
+              {
+                "key": "Tanytarsus sp. BOLD:ACU4288",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "157",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "NA",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Tanytarsus sp. BOLD:ACU4288"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "Ephemeroptera",
+    "values": [
+      {
+        "key": "Baetidae",
+        "values": [
+          {
+            "key": "Nigrobaetis niger",
+            "values": [
+              {
+                "key": "Nigrobaetis niger",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "19",
+                    "Sa04_184_BF11_BR20": "2299",
+                    "Sa04_214_BR24_BF13": "1967",
+                    "Sa05_5_BF11_BR11": "25",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "540",
+                    "Sa05_95_BR22_BF21": "132",
+                    "Sa05_125_BF2B_BR10": "48",
+                    "Sa05_155_BR13_BF21": "240",
+                    "Order": "Ephemeroptera",
+                    "Family": "Baetidae",
+                    "Genus": "Nigrobaetis niger",
+                    "Species": "Nigrobaetis niger"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Baetis bundyae",
+            "values": [
+              {
+                "key": "Baetis macani",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "20",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "4",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "2",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Ephemeroptera",
+                    "Family": "Baetidae",
+                    "Genus": "Baetis bundyae",
+                    "Species": "Baetis macani"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Baetis fuscatus",
+            "values": [
+              {
+                "key": "Baetis fuscatus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "21",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Ephemeroptera",
+                    "Family": "Baetidae",
+                    "Genus": "Baetis fuscatus",
+                    "Species": "Baetis fuscatus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Baetis sp. MZH_ES127",
+            "values": [
+              {
+                "key": "Baetis sp. MZH_JV15",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "22",
+                    "Sa04_184_BF11_BR20": "515",
+                    "Sa04_214_BR24_BF13": "253",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "1",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Ephemeroptera",
+                    "Family": "Baetidae",
+                    "Genus": "Baetis sp. MZH_ES127",
+                    "Species": "Baetis sp. MZH_JV15"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Procloeon bifidum",
+            "values": [
+              {
+                "key": "Acentrella parvula",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "24",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Ephemeroptera",
+                    "Family": "Baetidae",
+                    "Genus": "Procloeon bifidum",
+                    "Species": "Acentrella parvula"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Cloeon dipterum",
+            "values": [
+              {
+                "key": "Cloeon dipterum",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "26",
+                    "Sa04_184_BF11_BR20": "1",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Ephemeroptera",
+                    "Family": "Baetidae",
+                    "Genus": "Cloeon dipterum",
+                    "Species": "Cloeon dipterum"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Baetis rhodani",
+            "values": [
+              {
+                "key": "Baetis rhodani",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "28",
+                    "Sa04_184_BF11_BR20": "48",
+                    "Sa04_214_BR24_BF13": "2",
+                    "Sa05_5_BF11_BR11": "53204",
+                    "Sa05_35_BR13_BF13": "85628",
+                    "Sa05_65_BF2B_BR2B": "50117",
+                    "Sa05_95_BR22_BF21": "61446",
+                    "Sa05_125_BF2B_BR10": "80346",
+                    "Sa05_155_BR13_BF21": "107770",
+                    "Order": "Ephemeroptera",
+                    "Family": "Baetidae",
+                    "Genus": "Baetis rhodani",
+                    "Species": "Baetis rhodani"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Baetis subalpinus",
+            "values": [
+              {
+                "key": "Baetis subalpinus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "29",
+                    "Sa04_184_BF11_BR20": "2",
+                    "Sa04_214_BR24_BF13": "1",
+                    "Sa05_5_BF11_BR11": "3",
+                    "Sa05_35_BR13_BF13": "1",
+                    "Sa05_65_BF2B_BR2B": "418",
+                    "Sa05_95_BR22_BF21": "22",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "3",
+                    "Order": "Ephemeroptera",
+                    "Family": "Baetidae",
+                    "Genus": "Baetis subalpinus",
+                    "Species": "Baetis subalpinus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Baetis vernus",
+            "values": [
+              {
+                "key": "Baetis vernus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "30",
+                    "Sa04_184_BF11_BR20": "7",
+                    "Sa04_214_BR24_BF13": "1",
+                    "Sa05_5_BF11_BR11": "3",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "34",
+                    "Sa05_95_BR22_BF21": "7",
+                    "Sa05_125_BF2B_BR10": "1",
+                    "Sa05_155_BR13_BF21": "20",
+                    "Order": "Ephemeroptera",
+                    "Family": "Baetidae",
+                    "Genus": "Baetis vernus",
+                    "Species": "Baetis vernus"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "31",
+                    "Sa04_184_BF11_BR20": "6714",
+                    "Sa04_214_BR24_BF13": "10699",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "5",
+                    "Sa05_95_BR22_BF21": "86",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Ephemeroptera",
+                    "Family": "Baetidae",
+                    "Genus": "Baetis vernus",
+                    "Species": "Baetis vernus"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "32",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Ephemeroptera",
+                    "Family": "Baetidae",
+                    "Genus": "Baetis vernus",
+                    "Species": "Baetis vernus"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "33",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "347",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Ephemeroptera",
+                    "Family": "Baetidae",
+                    "Genus": "Baetis vernus",
+                    "Species": "Baetis vernus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Centroptilum luteolum",
+            "values": [
+              {
+                "key": "Centroptilum luteolum",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "56",
+                    "Sa04_184_BF11_BR20": "8",
+                    "Sa04_214_BR24_BF13": "2",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "4",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Ephemeroptera",
+                    "Family": "Baetidae",
+                    "Genus": "Centroptilum luteolum",
+                    "Species": "Centroptilum luteolum"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Caenidae",
+        "values": [
+          {
+            "key": "Caenis horaria",
+            "values": [
+              {
+                "key": "Caenis horaria",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "36",
+                    "Sa04_184_BF11_BR20": "4",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "10",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "14",
+                    "Sa05_125_BF2B_BR10": "928",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Ephemeroptera",
+                    "Family": "Caenidae",
+                    "Genus": "Caenis horaria",
+                    "Species": "Caenis horaria"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "37",
+                    "Sa04_184_BF11_BR20": "1",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "9",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Ephemeroptera",
+                    "Family": "Caenidae",
+                    "Genus": "Caenis horaria",
+                    "Species": "Caenis horaria"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Caenis luctuosa",
+            "values": [
+              {
+                "key": "Deleatidium sp. Dl_S75_05",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "38",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "9",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Ephemeroptera",
+                    "Family": "Caenidae",
+                    "Genus": "Caenis luctuosa",
+                    "Species": "Deleatidium sp. Dl_S75_05"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "Littorinimorpha",
+    "values": [
+      {
+        "key": "Bithyniidae",
+        "values": [
+          {
+            "key": "Bithynia tentaculata",
+            "values": [
+              {
+                "key": "Bithynia tentaculata",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "34",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "84091",
+                    "Sa05_35_BR13_BF13": "84556",
+                    "Sa05_65_BF2B_BR2B": "12981",
+                    "Sa05_95_BR22_BF21": "21766",
+                    "Sa05_125_BF2B_BR10": "30684",
+                    "Sa05_155_BR13_BF21": "26557",
+                    "Order": "Littorinimorpha",
+                    "Family": "Bithyniidae",
+                    "Genus": "Bithynia tentaculata",
+                    "Species": "Bithynia tentaculata"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "Diptera",
+    "values": [
+      {
+        "key": "Ceratopogonidae",
+        "values": [
+          {
+            "key": "Palpomyia flavipes",
+            "values": [
+              {
+                "key": "Forcipomyia sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "62",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Ceratopogonidae",
+                    "Genus": "Palpomyia flavipes",
+                    "Species": "Forcipomyia sp. BOLD-2016"
+                  }
+                ]
+              },
+              {
+                "key": "Ceratopogonidae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "64",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Ceratopogonidae",
+                    "Genus": "Palpomyia flavipes",
+                    "Species": "Ceratopogonidae sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Probezzia",
+            "values": [
+              {
+                "key": "Probezzia sp. 1ES",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "63",
+                    "Sa04_184_BF11_BR20": "1",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Ceratopogonidae",
+                    "Genus": "Probezzia",
+                    "Species": "Probezzia sp. 1ES"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Probezzia seminigra",
+            "values": [
+              {
+                "key": "Ceratopogonidae sp. BOLD:ACB1224",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "65",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "1",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Ceratopogonidae",
+                    "Genus": "Probezzia seminigra",
+                    "Species": "Ceratopogonidae sp. BOLD:ACB1224"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Chironomidae",
+        "values": [
+          {
+            "key": "Conchapelopia melanops",
+            "values": [
+              {
+                "key": "Conchapelopia sp. BOLD:ACJ8833",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "68",
+                    "Sa04_184_BF11_BR20": "9544",
+                    "Sa04_214_BR24_BF13": "8096",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "85",
+                    "Sa05_125_BF2B_BR10": "48",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Conchapelopia melanops",
+                    "Species": "Conchapelopia sp. BOLD:ACJ8833"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Thienemanniella sp. 3TE",
+            "values": [
+              {
+                "key": "Orthocladiinae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "69",
+                    "Sa04_184_BF11_BR20": "4",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Thienemanniella sp. 3TE",
+                    "Species": "Orthocladiinae sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Orthocladius rubicundus",
+            "values": [
+              {
+                "key": "Orthocladius sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "70",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "7822",
+                    "Sa05_35_BR13_BF13": "31227",
+                    "Sa05_65_BF2B_BR2B": "4556",
+                    "Sa05_95_BR22_BF21": "3904",
+                    "Sa05_125_BF2B_BR10": "7271",
+                    "Sa05_155_BR13_BF21": "19408",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Orthocladius rubicundus",
+                    "Species": "Orthocladius sp. BOLD-2016"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "78",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "261",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Orthocladius rubicundus",
+                    "Species": "Orthocladius sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Arctopelopia barbitarsis",
+            "values": [
+              {
+                "key": "Diamesa arctica",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "71",
+                    "Sa04_184_BF11_BR20": "9921",
+                    "Sa04_214_BR24_BF13": "12536",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "2",
+                    "Sa05_95_BR22_BF21": "89",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Arctopelopia barbitarsis",
+                    "Species": "Diamesa arctica"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "NA",
+            "values": [
+              {
+                "key": "Orthocladiinae sp. BOLD:ABA6465",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "72",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "35596",
+                    "Sa05_35_BR13_BF13": "103264",
+                    "Sa05_65_BF2B_BR2B": "19976",
+                    "Sa05_95_BR22_BF21": "21513",
+                    "Sa05_125_BF2B_BR10": "72717",
+                    "Sa05_155_BR13_BF21": "158769",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "NA",
+                    "Species": "Orthocladiinae sp. BOLD:ABA6465"
+                  }
+                ]
+              },
+              {
+                "key": "Orthocladius rivulorum",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "126",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "3",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "NA",
+                    "Species": "Orthocladius rivulorum"
+                  }
+                ]
+              },
+              {
+                "key": "Paraphaenocladius irritus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "128",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "NA",
+                    "Species": "Paraphaenocladius irritus"
+                  }
+                ]
+              },
+              {
+                "key": "Chironomidae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "139",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "112",
+                    "Sa05_35_BR13_BF13": "86",
+                    "Sa05_65_BF2B_BR2B": "25",
+                    "Sa05_95_BR22_BF21": "83",
+                    "Sa05_125_BF2B_BR10": "24",
+                    "Sa05_155_BR13_BF21": "131",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "NA",
+                    "Species": "Chironomidae sp. BOLD-2016"
+                  }
+                ]
+              },
+              {
+                "key": "Chironomidae sp. BOLD:ABA0772",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "145",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "NA",
+                    "Species": "Chironomidae sp. BOLD:ABA0772"
+                  }
+                ]
+              },
+              {
+                "key": "Chironomus tepperi",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "162",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "2",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "NA",
+                    "Species": "Chironomus tepperi"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Gymnometriocnemus kamimegavirgus",
+            "values": [
+              {
+                "key": "Gymnometriocnemus volitans",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "73",
+                    "Sa04_184_BF11_BR20": "3",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "11",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "10",
+                    "Sa05_125_BF2B_BR10": "4",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Gymnometriocnemus kamimegavirgus",
+                    "Species": "Gymnometriocnemus volitans"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Natarsia punctata",
+            "values": [
+              {
+                "key": "Chironomidae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "74",
+                    "Sa04_184_BF11_BR20": "2311",
+                    "Sa04_214_BR24_BF13": "4739",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "3",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Natarsia punctata",
+                    "Species": "Chironomidae sp. BOLD-2016"
+                  }
+                ]
+              },
+              {
+                "key": "Orthocladiinae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "106",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "3",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Natarsia punctata",
+                    "Species": "Orthocladiinae sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Polypedilum pullum",
+            "values": [
+              {
+                "key": "Chironominae sp. BOLD:ACO2757",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "75",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Polypedilum pullum",
+                    "Species": "Chironominae sp. BOLD:ACO2757"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Conchapelopia hittmairorum",
+            "values": [
+              {
+                "key": "Conchapelopia sp. AJ-2011",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "76",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "12856",
+                    "Sa05_35_BR13_BF13": "5892",
+                    "Sa05_65_BF2B_BR2B": "4184",
+                    "Sa05_95_BR22_BF21": "7231",
+                    "Sa05_125_BF2B_BR10": "6046",
+                    "Sa05_155_BR13_BF21": "3339",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Conchapelopia hittmairorum",
+                    "Species": "Conchapelopia sp. AJ-2011"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "172",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "18443",
+                    "Sa05_35_BR13_BF13": "25136",
+                    "Sa05_65_BF2B_BR2B": "7197",
+                    "Sa05_95_BR22_BF21": "10570",
+                    "Sa05_125_BF2B_BR10": "18417",
+                    "Sa05_155_BR13_BF21": "22244",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Conchapelopia hittmairorum",
+                    "Species": "Conchapelopia sp. AJ-2011"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Orthocladius dentifer",
+            "values": [
+              {
+                "key": "Orthocladius sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "77",
+                    "Sa04_184_BF11_BR20": "1340",
+                    "Sa04_214_BR24_BF13": "1724",
+                    "Sa05_5_BF11_BR11": "8922",
+                    "Sa05_35_BR13_BF13": "19935",
+                    "Sa05_65_BF2B_BR2B": "979",
+                    "Sa05_95_BR22_BF21": "1336",
+                    "Sa05_125_BF2B_BR10": "4732",
+                    "Sa05_155_BR13_BF21": "8578",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Orthocladius dentifer",
+                    "Species": "Orthocladius sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Pseudodiamesa nivosa",
+            "values": [
+              {
+                "key": "Rheosmittia spinicornis",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "79",
+                    "Sa04_184_BF11_BR20": "4799",
+                    "Sa04_214_BR24_BF13": "6113",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "11",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Pseudodiamesa nivosa",
+                    "Species": "Rheosmittia spinicornis"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Tvetenia tshernovskii",
+            "values": [
+              {
+                "key": "Cricotopus bimaculatus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "80",
+                    "Sa04_184_BF11_BR20": "6",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "336",
+                    "Sa05_35_BR13_BF13": "709",
+                    "Sa05_65_BF2B_BR2B": "845",
+                    "Sa05_95_BR22_BF21": "1024",
+                    "Sa05_125_BF2B_BR10": "443",
+                    "Sa05_155_BR13_BF21": "398",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Tvetenia tshernovskii",
+                    "Species": "Cricotopus bimaculatus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Thienemannimyia carnea",
+            "values": [
+              {
+                "key": "Thienemannimyia sp. 1ES",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "81",
+                    "Sa04_184_BF11_BR20": "3",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "5872",
+                    "Sa05_35_BR13_BF13": "5457",
+                    "Sa05_65_BF2B_BR2B": "1158",
+                    "Sa05_95_BR22_BF21": "618",
+                    "Sa05_125_BF2B_BR10": "4477",
+                    "Sa05_155_BR13_BF21": "3765",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Thienemannimyia carnea",
+                    "Species": "Thienemannimyia sp. 1ES"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Eukiefferiella brevicalcar",
+            "values": [
+              {
+                "key": "Simulium sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "82",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Eukiefferiella brevicalcar",
+                    "Species": "Simulium sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Corynoneura sp. 16ES",
+            "values": [
+              {
+                "key": "Corynoneura scutellata",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "83",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Corynoneura sp. 16ES",
+                    "Species": "Corynoneura scutellata"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Rheopelopia maculipennis",
+            "values": [
+              {
+                "key": "Tanypodinae sp. BOLD:ACN3016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "84",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "1",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Rheopelopia maculipennis",
+                    "Species": "Tanypodinae sp. BOLD:ACN3016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Tvetenia calvescens",
+            "values": [
+              {
+                "key": "Tvetenia calvescens",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "85",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "344",
+                    "Sa05_35_BR13_BF13": "792",
+                    "Sa05_65_BF2B_BR2B": "2",
+                    "Sa05_95_BR22_BF21": "23",
+                    "Sa05_125_BF2B_BR10": "49",
+                    "Sa05_155_BR13_BF21": "171",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Tvetenia calvescens",
+                    "Species": "Tvetenia calvescens"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "117",
+                    "Sa04_184_BF11_BR20": "1",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Tvetenia calvescens",
+                    "Species": "Tvetenia calvescens"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Potthastia longimanus",
+            "values": [
+              {
+                "key": "Empididae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "86",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "4",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Potthastia longimanus",
+                    "Species": "Empididae sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Cricotopus bicinctus",
+            "values": [
+              {
+                "key": "Cricotopus bicinctus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "88",
+                    "Sa04_184_BF11_BR20": "1",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "15179",
+                    "Sa05_35_BR13_BF13": "16301",
+                    "Sa05_65_BF2B_BR2B": "5315",
+                    "Sa05_95_BR22_BF21": "8690",
+                    "Sa05_125_BF2B_BR10": "9468",
+                    "Sa05_155_BR13_BF21": "14890",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Cricotopus bicinctus",
+                    "Species": "Cricotopus bicinctus"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "134",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "1",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "1",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Cricotopus bicinctus",
+                    "Species": "Cricotopus bicinctus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Zavrelimyia sp. 1ES",
+            "values": [
+              {
+                "key": "Conchapelopia aagaardi",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "89",
+                    "Sa04_184_BF11_BR20": "430",
+                    "Sa04_214_BR24_BF13": "387",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "3",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Zavrelimyia sp. 1ES",
+                    "Species": "Conchapelopia aagaardi"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Microtendipes pedellus",
+            "values": [
+              {
+                "key": "Polypedilum sordens",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "90",
+                    "Sa04_184_BF11_BR20": "4730",
+                    "Sa04_214_BR24_BF13": "5330",
+                    "Sa05_5_BF11_BR11": "12",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "91",
+                    "Sa05_125_BF2B_BR10": "3",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Microtendipes pedellus",
+                    "Species": "Polypedilum sordens"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "159",
+                    "Sa04_184_BF11_BR20": "207",
+                    "Sa04_214_BR24_BF13": "270",
+                    "Sa05_5_BF11_BR11": "1",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "6",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Microtendipes pedellus",
+                    "Species": "Polypedilum sordens"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Micropsectra klinki",
+            "values": [
+              {
+                "key": "Tanytarsus inextentus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "91",
+                    "Sa04_184_BF11_BR20": "33",
+                    "Sa04_214_BR24_BF13": "70",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Micropsectra klinki",
+                    "Species": "Tanytarsus inextentus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Orthocladius oblidens",
+            "values": [
+              {
+                "key": "Orthocladius oblidens",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "92",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "42",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Orthocladius oblidens",
+                    "Species": "Orthocladius oblidens"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Procladius nigriventris",
+            "values": [
+              {
+                "key": "Procladius nigriventris",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "93",
+                    "Sa04_184_BF11_BR20": "2",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "2",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Procladius nigriventris",
+                    "Species": "Procladius nigriventris"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Brillia bifida",
+            "values": [
+              {
+                "key": "Propsilocerus akamusi",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "94",
+                    "Sa04_184_BF11_BR20": "179",
+                    "Sa04_214_BR24_BF13": "421",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "1",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Brillia bifida",
+                    "Species": "Propsilocerus akamusi"
+                  }
+                ]
+              },
+              {
+                "key": "Orthocladiinae sp. BOLD:ACL7762",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "101",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Brillia bifida",
+                    "Species": "Orthocladiinae sp. BOLD:ACL7762"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Cricotopus triannulatus",
+            "values": [
+              {
+                "key": "Cricotopus triannulatus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "95",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "1993",
+                    "Sa05_35_BR13_BF13": "1454",
+                    "Sa05_65_BF2B_BR2B": "1055",
+                    "Sa05_95_BR22_BF21": "1015",
+                    "Sa05_125_BF2B_BR10": "11254",
+                    "Sa05_155_BR13_BF21": "9979",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Cricotopus triannulatus",
+                    "Species": "Cricotopus triannulatus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Endochironomus albipennis",
+            "values": [
+              {
+                "key": "Endochironomus albipennis",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "96",
+                    "Sa04_184_BF11_BR20": "1",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "1",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Endochironomus albipennis",
+                    "Species": "Endochironomus albipennis"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Ablabesmyia longistyla",
+            "values": [
+              {
+                "key": "Anopheles maculatus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "97",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "3",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "2",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Ablabesmyia longistyla",
+                    "Species": "Anopheles maculatus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Diamesa sp. 3",
+            "values": [
+              {
+                "key": "Cheumatopsyche persica",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "98",
+                    "Sa04_184_BF11_BR20": "1",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "12",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Diamesa sp. 3",
+                    "Species": "Cheumatopsyche persica"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Brillia longifurca",
+            "values": [
+              {
+                "key": "Brillia sp. BOLD:AAI3832",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "99",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Brillia longifurca",
+                    "Species": "Brillia sp. BOLD:AAI3832"
+                  },
+                  {
+                    "Sa04_184_BF11_BR22": "110",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Brillia longifurca",
+                    "Species": "Brillia sp. BOLD:AAI3832"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Polypedilum pedestre",
+            "values": [
+              {
+                "key": "Polypedilum cf. pedestre BOLD:AAW0978",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "100",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Polypedilum pedestre",
+                    "Species": "Polypedilum cf. pedestre BOLD:AAW0978"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Heterotrissocladius marcidus",
+            "values": [
+              {
+                "key": "Heterotrissocladius sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "102",
+                    "Sa04_184_BF11_BR20": "12",
+                    "Sa04_214_BR24_BF13": "3",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Heterotrissocladius marcidus",
+                    "Species": "Heterotrissocladius sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Micropsectra appendica",
+            "values": [
+              {
+                "key": "Micropsectra appendica",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "104",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "1",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Micropsectra appendica",
+                    "Species": "Micropsectra appendica"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Rheotanytarsus",
+            "values": [
+              {
+                "key": "Rheotanytarsus sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "105",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Rheotanytarsus",
+                    "Species": "Rheotanytarsus sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Rheotanytarsus ringei",
+            "values": [
+              {
+                "key": "Rheotanytarsus pentapoda",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "107",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "1",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Rheotanytarsus ringei",
+                    "Species": "Rheotanytarsus pentapoda"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Rheopelopia sp. 1ES",
+            "values": [
+              {
+                "key": "Coelopynia sp. 1 MEC-2013",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "108",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "17",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Rheopelopia sp. 1ES",
+                    "Species": "Coelopynia sp. 1 MEC-2013"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Tanytarsus brundini",
+            "values": [
+              {
+                "key": "Tanytarsus brundini",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "109",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "8",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Tanytarsus brundini",
+                    "Species": "Tanytarsus brundini"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Polypedilum nubeculosum",
+            "values": [
+              {
+                "key": "Polypedilum nubeculosum",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "111",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Polypedilum nubeculosum",
+                    "Species": "Polypedilum nubeculosum"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Apsectrotanypus trifascipennis",
+            "values": [
+              {
+                "key": "Orthocladiinae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "112",
+                    "Sa04_184_BF11_BR20": "547",
+                    "Sa04_214_BR24_BF13": "1434",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "21",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Apsectrotanypus trifascipennis",
+                    "Species": "Orthocladiinae sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Phaenopsectra flavipes",
+            "values": [
+              {
+                "key": "Phaenopsectra flavipes",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "113",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Phaenopsectra flavipes",
+                    "Species": "Phaenopsectra flavipes"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Rheotanytarsus pentapoda",
+            "values": [
+              {
+                "key": "Rheotanytarsus sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "114",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "2",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "2",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Rheotanytarsus pentapoda",
+                    "Species": "Rheotanytarsus sp. BOLD-2016"
+                  }
+                ]
+              },
+              {
+                "key": "Rheotanytarsus sp. BOLD:ACL3883",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "175",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "2",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Rheotanytarsus pentapoda",
+                    "Species": "Rheotanytarsus sp. BOLD:ACL3883"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Tanytarsus eminulus",
+            "values": [
+              {
+                "key": "Tanytarsus eminulus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "115",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "5",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Tanytarsus eminulus",
+                    "Species": "Tanytarsus eminulus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Micropsectra contracta",
+            "values": [
+              {
+                "key": "Micropsectra contracta",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "116",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Micropsectra contracta",
+                    "Species": "Micropsectra contracta"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Polypedilum albinodus",
+            "values": [
+              {
+                "key": "Chironominae sp. BOLD:ACD0914",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "118",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Polypedilum albinodus",
+                    "Species": "Chironominae sp. BOLD:ACD0914"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Thienemanniella vittata",
+            "values": [
+              {
+                "key": "Thienemanniella xena",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "119",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Thienemanniella vittata",
+                    "Species": "Thienemanniella xena"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Procladius sp.",
+            "values": [
+              {
+                "key": "Chironomidae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "120",
+                    "Sa04_184_BF11_BR20": "865",
+                    "Sa04_214_BR24_BF13": "1637",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "10",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Procladius sp.",
+                    "Species": "Chironomidae sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Conchapelopia pallidula",
+            "values": [
+              {
+                "key": "Conchapelopia sp. BOLD:ACQ3496",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "121",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "1",
+                    "Sa05_5_BF11_BR11": "1",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Conchapelopia pallidula",
+                    "Species": "Conchapelopia sp. BOLD:ACQ3496"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Virgatanytarsus arduennensis",
+            "values": [
+              {
+                "key": "Paratanytarsus sp. BOLD:ACD1709",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "122",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Virgatanytarsus arduennensis",
+                    "Species": "Paratanytarsus sp. BOLD:ACD1709"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Tvetenia verralli",
+            "values": [
+              {
+                "key": "Tvetenia paucunca",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "123",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "1",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "3",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Tvetenia verralli",
+                    "Species": "Tvetenia paucunca"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Polypedilum convictum",
+            "values": [
+              {
+                "key": "Microtendipes pedellus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "124",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Polypedilum convictum",
+                    "Species": "Microtendipes pedellus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Dicrotendipes nervosus",
+            "values": [
+              {
+                "key": "Dicrotendipes nervosus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "125",
+                    "Sa04_184_BF11_BR20": "1",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "1",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "1",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Dicrotendipes nervosus",
+                    "Species": "Dicrotendipes nervosus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Micropsectra notescens",
+            "values": [
+              {
+                "key": "Micropsectra notescens",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "127",
+                    "Sa04_184_BF11_BR20": "1058",
+                    "Sa04_214_BR24_BF13": "1090",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "2",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Micropsectra notescens",
+                    "Species": "Micropsectra notescens"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Cricotopus skirwithensis",
+            "values": [
+              {
+                "key": "Cricotopus sp. BOLD:ACL4290",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "129",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "4",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Cricotopus skirwithensis",
+                    "Species": "Cricotopus sp. BOLD:ACL4290"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Cricotopus annulator",
+            "values": [
+              {
+                "key": "Cricotopus sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "130",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Cricotopus annulator",
+                    "Species": "Cricotopus sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Corynoneura sp. 7ES",
+            "values": [
+              {
+                "key": "Corynoneura sp. 7ES",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "131",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Corynoneura sp. 7ES",
+                    "Species": "Corynoneura sp. 7ES"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Limnophyes pentaplastus",
+            "values": [
+              {
+                "key": "Limnophyes pentaplastus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "132",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Limnophyes pentaplastus",
+                    "Species": "Limnophyes pentaplastus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Eukiefferiella claripennis",
+            "values": [
+              {
+                "key": "Eukiefferiella claripennis",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "133",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Eukiefferiella claripennis",
+                    "Species": "Eukiefferiella claripennis"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Trissopelopia longimana",
+            "values": [
+              {
+                "key": "Trissopelopia longimana",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "135",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Trissopelopia longimana",
+                    "Species": "Trissopelopia longimana"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Chironomus",
+            "values": [
+              {
+                "key": "Chironomus sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "136",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "1",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Chironomus",
+                    "Species": "Chironomus sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Chaetocladius piger",
+            "values": [
+              {
+                "key": "Chaetocladius insolitus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "138",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Chaetocladius piger",
+                    "Species": "Chaetocladius insolitus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Eukiefferiella dittmari",
+            "values": [
+              {
+                "key": "Eukiefferiella sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "140",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Eukiefferiella dittmari",
+                    "Species": "Eukiefferiella sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Corynoneura sp. 17ES",
+            "values": [
+              {
+                "key": "Corynoneura scutellata",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "141",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Corynoneura sp. 17ES",
+                    "Species": "Corynoneura scutellata"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Parakiefferiella bathophila",
+            "values": [
+              {
+                "key": "Parakiefferiella bathophila",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "143",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Parakiefferiella bathophila",
+                    "Species": "Parakiefferiella bathophila"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Psectrocladius limbatellus",
+            "values": [
+              {
+                "key": "Orthocladiinae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "144",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Psectrocladius limbatellus",
+                    "Species": "Orthocladiinae sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Limnophyes sp. 13ES",
+            "values": [
+              {
+                "key": "Limnophyes sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "147",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Limnophyes sp. 13ES",
+                    "Species": "Limnophyes sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Tanytarsus signatus",
+            "values": [
+              {
+                "key": "Stempellinella edwardsi",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "148",
+                    "Sa04_184_BF11_BR20": "206",
+                    "Sa04_214_BR24_BF13": "170",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "2",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Tanytarsus signatus",
+                    "Species": "Stempellinella edwardsi"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Stictochironomus unguiculatus",
+            "values": [
+              {
+                "key": "Chironominae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "149",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "9",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Stictochironomus unguiculatus",
+                    "Species": "Chironominae sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Micropsectra pallidula",
+            "values": [
+              {
+                "key": "Micropsectra pallidula",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "150",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Micropsectra pallidula",
+                    "Species": "Micropsectra pallidula"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Ablabesmyia",
+            "values": [
+              {
+                "key": "Chironominae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "151",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Ablabesmyia",
+                    "Species": "Chironominae sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Corynoneura edwardsi",
+            "values": [
+              {
+                "key": "Corynoneura carriana",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "152",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Corynoneura edwardsi",
+                    "Species": "Corynoneura carriana"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Cricotopus sylvestris",
+            "values": [
+              {
+                "key": "Cricotopus sylvestris",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "154",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Cricotopus sylvestris",
+                    "Species": "Cricotopus sylvestris"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Thienemanniella majuscula",
+            "values": [
+              {
+                "key": "Orthocladiinae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "156",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Thienemanniella majuscula",
+                    "Species": "Orthocladiinae sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Paratanytarsus dissimilis",
+            "values": [
+              {
+                "key": "Paratanytarsus inopertus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "158",
+                    "Sa04_184_BF11_BR20": "27",
+                    "Sa04_214_BR24_BF13": "11",
+                    "Sa05_5_BF11_BR11": "19",
+                    "Sa05_35_BR13_BF13": "8",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Paratanytarsus dissimilis",
+                    "Species": "Paratanytarsus inopertus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Micropsectra junci",
+            "values": [
+              {
+                "key": "Micropsectra junci",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "160",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Micropsectra junci",
+                    "Species": "Micropsectra junci"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Parametriocnemus stylatus",
+            "values": [
+              {
+                "key": "Parametriocnemus sp. BOLD:ACC5534",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "161",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "46",
+                    "Sa05_35_BR13_BF13": "116",
+                    "Sa05_65_BF2B_BR2B": "216",
+                    "Sa05_95_BR22_BF21": "26",
+                    "Sa05_125_BF2B_BR10": "4",
+                    "Sa05_155_BR13_BF21": "15",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Parametriocnemus stylatus",
+                    "Species": "Parametriocnemus sp. BOLD:ACC5534"
+                  }
+                ]
+              },
+              {
+                "key": "Chironomidae sp. BOLD-2016",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "169",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Parametriocnemus stylatus",
+                    "Species": "Chironomidae sp. BOLD-2016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Micropsectra roseiventris",
+            "values": [
+              {
+                "key": "Micropsectra roseiventris",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "163",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Micropsectra roseiventris",
+                    "Species": "Micropsectra roseiventris"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Nanocladius anderseni",
+            "values": [
+              {
+                "key": "Nanocladius anderseni",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "164",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Nanocladius anderseni",
+                    "Species": "Nanocladius anderseni"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Thienemanniella xena",
+            "values": [
+              {
+                "key": "Thienemanniella xena",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "165",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Thienemanniella xena",
+                    "Species": "Thienemanniella xena"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Psectrocladius sp. 6TE",
+            "values": [
+              {
+                "key": "Psectrocladius sordidellus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "166",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Psectrocladius sp. 6TE",
+                    "Species": "Psectrocladius sordidellus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Tanytarsus heusdensis",
+            "values": [
+              {
+                "key": "Tanytarsus sp. BOLD:AAV3526",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "167",
+                    "Sa04_184_BF11_BR20": "50",
+                    "Sa04_214_BR24_BF13": "94",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Tanytarsus heusdensis",
+                    "Species": "Tanytarsus sp. BOLD:AAV3526"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Nanocladius rectinervis",
+            "values": [
+              {
+                "key": "Leptocera limosa",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "168",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Nanocladius rectinervis",
+                    "Species": "Leptocera limosa"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Procladius crassinervis",
+            "values": [
+              {
+                "key": "Procladius crassinervis",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "170",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Procladius crassinervis",
+                    "Species": "Procladius crassinervis"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Nanocladius minimus",
+            "values": [
+              {
+                "key": "Nanocladius anderseni",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "171",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Nanocladius minimus",
+                    "Species": "Nanocladius anderseni"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Polypedilum sordens",
+            "values": [
+              {
+                "key": "Polypedilum sordens",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "173",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Polypedilum sordens",
+                    "Species": "Polypedilum sordens"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Corynoneura",
+            "values": [
+              {
+                "key": "Chironomidae sp. BOLD:AAN5033",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "174",
+                    "Sa04_184_BF11_BR20": "0",
+                    "Sa04_214_BR24_BF13": "0",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "0",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "Chironomidae",
+                    "Genus": "Corynoneura",
+                    "Species": "Chironomidae sp. BOLD:AAN5033"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "NA",
+        "values": [
+          {
+            "key": "NA",
+            "values": [
+              {
+                "key": "Procladius signatus",
+                "values": [
+                  {
+                    "Sa04_184_BF11_BR22": "87",
+                    "Sa04_184_BF11_BR20": "9150",
+                    "Sa04_214_BR24_BF13": "12991",
+                    "Sa05_5_BF11_BR11": "0",
+                    "Sa05_35_BR13_BF13": "0",
+                    "Sa05_65_BF2B_BR2B": "0",
+                    "Sa05_95_BR22_BF21": "60",
+                    "Sa05_125_BF2B_BR10": "0",
+                    "Sa05_155_BR13_BF21": "0",
+                    "Order": "Diptera",
+                    "Family": "NA",
+                    "Genus": "NA",
+                    "Species": "Procladius signatus"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

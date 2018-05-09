@@ -144,7 +144,6 @@ sunburstD3 = function module() {
         chartObj.forEach(function(obj){
     
             // Get the node path for each chart object
-            // 
             newPath = getNodePath(obj.__data__, d.id);
          
             //check for the newpath variable
