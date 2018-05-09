@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Tangerine);
+@import url(https://fonts.googleapis.com/css?family=Muli);
+
 @media (max-width: 762px) {
   .btn-responsive {
     font-size: 80%;
@@ -20,7 +22,8 @@
 
 #aboutProject {
   text-align: center;
-  font-family: sans-serif;
+  font-family: font-size: 14px;
+  font-family: 'Muli', Arial, sans-serif;
   font-size: 18px;
   font-weight: bold;
 
@@ -33,7 +36,8 @@ body {
 }
 
 .btn-default {
-  font-size: 12px;
+  font-size: 14px;
+  font-family: 'Muli', Arial, sans-serif;
   text-align: right;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -146,6 +150,88 @@ div.tooltip {
   align: left;
 }
 
+/*custome style on navbar */
+
+.navbar {
+  min-height: 50px;
+  border-bottom: 0px solid #d9d9d9;
+  background-color: #777;
+  /*background-color: #f9f7ed;
+  background-color: #f4f3ef;
+  background-color: #77cc6d; 
+  background-color: #ffd777;*/
+  box-shadow: 0 3px 10px rgba(0, 0, 0, .13), 0 3px 10px rgba(0, 0, 0, .16);
+}
+
+
+/*custome style on navbar brand */
+
+.navbar .navbar-brand {
+  color: #777;
+  color: #fff;
+  color: darkturquoise;
+  position: absolute;
+  left: 40px;
+  margin: 10px 20px;
+  font-weight: bolder;
+  padding: 10px 10px;
+  font-size: 25px;
+  font-family: 'Muli', Arial, sans-serif;
+}
+
+
+/* navbar brand on hover */
+
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+  color: #68B3C8;
+  color: darkturquoise;
+}
+
+
+/*custome style on navbar li */
+
+.navbar .navbar-nav > li > a {
+  /*color: #777;*/
+  color: #9a9a9a;
+  color: #fff;
+  /*font-weight: 600;*/
+  right: 30px;
+  font-size: 18px;
+  line-height: 1.42857;
+  margin: 10px 20px;
+  padding: 10px 10px;
+}
+
+
+/* navbar li on hover */
+
+.navbar .navbar-nav > li > a:hover {
+  background-color: transparent;
+  color: #68B3C8;
+  color: darkturquoise;
+}
+
+
+/* navbar li on click */
+
+.navbar .navbar-nav > li > a:focus {
+  background-color: transparent;
+  color: #fff;
+}
+
+
+/* active navbar li */
+
+.navbar .navbar-nav > .active > a,
+.navbar .navbar-nav > .active > a:focus,
+.navbar .navbar-nav > .active > a:hover {
+  background-color: #66615b !important;
+  color: #fff !important;
+  border-radius: 6px !important;
+}
+
+
 .footer {
   position: absolute;
   padding-top: 10px;
@@ -168,7 +254,7 @@ html {
   text-align: center;
   color: rosybrown;
   font-size: 20px;
-  font-family: fantasy;
+  font-family: 'Muli', Arial, sans-serif;
 }
 
 #loadTestFile {
@@ -178,7 +264,7 @@ html {
   color: gainsboro;
   border: none;
   font-size: 18px;
-  font-family: sans-serif;
+  font-family: 'Muli', Arial, sans-serif;
   font-weight: bold;
   margin: 300px 0 0 450px;
 }
@@ -197,7 +283,7 @@ text {
   fill: #FFF;
   pointer-events: none;
   font-size: 13px;
-  font-family: sans-serif;
+  font-family: 'Muli', Arial, sans-serif;
   font-weight: bold;
 }
 
